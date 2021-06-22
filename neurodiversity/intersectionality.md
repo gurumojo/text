@@ -4,6 +4,10 @@ Intersectionality
 
 Did the group being spoken about have representation?
 
+[My Flavor of Autism](./diagnosis.md) 'Previous')
+-- [Neurodiversity](./README.md 'Main')
+-- [Ordered Identity](./identity.md) 'Next')
+
 
 I Stand with Nonspeakers
 ------------------------
@@ -21,31 +25,8 @@ involved and holds the potential to change our collective futures based on our
 findings.  Organization and solidarity are essential in demanding equal rights
 and access.
 
-Social disability is not determined by intelligence or capability.
-
-
-Black Lives Matter
-------------------
-
-Mutiply marginalized minority members are even more commonly overlooked and
-actively oppressed under modern capitalism.  Yes, we are all (as a class of
-socially disabled autistics) overdue even footing, yet this compounds and gets
-magnified by implicit and explicit bias via each aditional minority or
-disability with which one identifies (knowingly or not -- e.g. I have seen my
-own access limited by being autistic, even before I knew I was, having looked
-deeply through personal journals and memories after late life diagnosis).
-
-Many parallels are drawn by sophomoric activists wishing to do good and/or
-antagonistic agents looking to reinforce damaging stereotypes, e.g. white people
-drawing analogies between the struggles Black people and other minority groups
-face.  Simply put, if one doesn't identify with a particular minority group they
-have no business appropriating examples owned by the misrepresented minority
-when attempting to illustrate their own position.  A preferred option: use
-positions of privilege to promote voices from members of that minority.  Hold
-fast to the "nothing about us without us" ethos in knowing when to yield the
-floor.
-
-Only through solidarity do we break bonds of oppression.
+Social disability is not determined by intelligence, capability, or level of
+effort.
 
 
 Honoring Two Spirits
@@ -67,7 +48,31 @@ my perspective, being primarily rooted in exclusion and bias, insofar as one
 might consider anything a way of being.  Only the altruism, providing, and
 protective states within machismo resonate personally.  Learning recently of
 its roots in colonialism only serves to further distance me from that space
-during this era of protest.
+during this era of protest and moving forward.
 
 I will not accept any indigenous labelling.  It was made for indigenous use.
+
+
+Black Lives Matter
+------------------
+
+Mutiply marginalized minority members are even more commonly overlooked and
+actively oppressed under modern capitalism.  Yes, we are all (as a class of
+socially disabled autistics) overdue even footing, yet this compounds and gets
+magnified by implicit and explicit bias via each additional minority or
+disability with which one identifies (knowingly or not -- e.g. I have seen my
+own access limited by being autistic, even before I knew I was, having looked
+deeply through personal journals and memories post late life diagnosis).
+
+Many parallels are drawn by sophomoric activists wishing to do good and/or
+antagonistic agents looking to reinforce damaging stereotypes, e.g. white people
+drawing analogies between the struggles Black people and other minority groups
+face.  Simply put, if one doesn't identify with a particular minority group they
+have no business appropriating examples owned by the misrepresented minority
+when attempting to illustrate their own position.  A preferred option: use
+positions of privilege to promote voices from members of that minority.  Hold
+fast to the "nothing about us without us" ethos in knowing when to yield the
+floor.
+
+Only through solidarity do we break bonds of oppression.
 

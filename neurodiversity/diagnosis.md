@@ -2,13 +2,17 @@
 My Flavor of Autism
 ===================
 
-If you've met one autistic person, you've met one autistic person
+Once you've met one autistic person, you've met one autistic person
+
+[Setting the Stage](./introduction.md) 'Previous')
+-- [Neurodiversity](./README.md 'Main')
+-- [Intersectionality](./intersectionality.md) 'Next')
 
 
 Setting the Stage
 -----------------
 
-Autistic advocates provide messaging online quite contrary to most recorded
+Autistic advocates provide messaging online quite contrary to most colloquial
 wisdom about autistic experience.  My attempts at accessing much needed care or
 support through the years, and especially in reference to learning about these
 recent revelations has been fraught to say the least (PhD confirmation came at
@@ -23,21 +27,20 @@ for the most part, though I have yet to learn patience in the face of intended
 negligence, it was because nobody else in so many scenes playing out over my
 adult life was in the position to call out the abhorrent act of excluding others
 by preference alone.  I was, and through so doing I learned that in the wrong
-hands, knowledge (as is sadly so often the case) of fear or disability can be
-wielded as quite a weapon.
+hands, knowledge of fear or disability can be wielded as quite a weapon.
 
 Acknowledging the privilege in my life because of how I look at a glance or on
-paper, I have fought for underdogs at every one of my jobs, and I have paid
-dearly for that in comparison to the privilege and ease I witness regarding
-neurotypical examples from my census peer group in my chosen field (e.g. anyone
-capable of passing through modern cultures as a straight white/cis/male).  Study
-of Black History in college, and recent inspiration from the public outpouring
-of support for the Black Lives Matter movement and the ramifications for
-oppressed classes of people everywhere, coupled with deep introspective work
-aiming at unwinding the internalized ableism and racism baked into me by the
-state's tireless pursuit of control at any cost has served to calcify loose
-focus into a spearhead serving social justice.  I am discovering my true
-purpose.  I am out and proud!
+paper, I have fought for underdogs at every opportunity and I have paid dearly
+for it in comparison to the privilege and ease I witness regarding neurotypical
+examples from my census peer group in my chosen field (e.g. anyone capable of
+passing through modern cultures as a straight white/cis/male builder of internet
+things).  Study of Black History in college, and recent inspiration from the
+public outpouring of support for the Black Lives Matter movement and the
+ramifications for oppressed classes of people everywhere, coupled with deep
+introspective work aiming at unwinding the internalized ableism and racism baked
+into me by the state's tireless pursuit of control at any cost has served to
+calcify loose focus into a spearhead serving social justice.  I am discovering
+my true purpose.  I am out and proud!
 
 
 Identity vs. Diagnosis
@@ -60,20 +63,22 @@ shared regarding these breakdowns).  While claiming overwhelmingly common
 threads in our outlook with respect to justice, agency, and empathy, the ways
 our environment and resulting behavior trends disable us do very little in the
 way of accurately describing a vast array of experiences and perspectives.  We
-have a different neuron wiring plan, no big whoop.  Overly optimized systems,
-or those overtly tuned to a contrary purpose, tend to fail under such load and
-this has played out in tragic comedy as neurotypical reaction to pandemic life.
+have a different neuron wiring plan, no big whoop.  The left and right amygdala
+failed to connect in a typical way and found other pathways for sharing vital
+information within the brain.  Overly optimized systems, or those overtly tuned
+to a contrary purpose, tend to fail under such load and this has played out in
+tragic comedy as neurotypical reaction to pandemic life.
 
 There are clusters of co-occurring conditions typically experienced by autistic
 people, but severity labels (apart from missing the mark entirely) are typically
-used by those blind to this reality and the very dynamic nature of how abled
-one is from moment to moment.  My take so far is that the most-feared aspects of
-"autism" amount to medical disablities also presenting in allistic populations.
+used by those blind to this reality and the very dynamic nature of how abled one
+is from moment to moment.  My take so far is that the most-feared aspects of
+autism amount to medical disablities also presenting in allistic populations.
 The most disabling feature of a life autistic for many adults has not been
 physical deformity, but social oppression seeking to enforce a mythical normal;
-systems and infrastructure built fully ignorant to their common needs; a near
-total lack of willingness to hold space embracing uncommon or undesirable ways
-of being.
+systems and infrastructure built fully ignorant to their common needs; effects
+of a total lack of willingness to hold space embracing uncommon or undesirable
+ways of being.
 
 Writ large by those dubbing themselves allies amidst gnashing of teeth at how
 much suffering *they* face at the hands of this so called monstrous calamity,

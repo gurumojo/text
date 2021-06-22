@@ -2,6 +2,12 @@
 Emerging Activism
 =================
 
+Always present, now unapoligetically promoted
+
+[Autistic Burnout](./burnout.md 'Previous')
+-- [Neurodiversity](./README.md 'Main')
+-- [Getting Involved](./engagement.md) 'Next')
+
 
 Wrong Template
 --------------

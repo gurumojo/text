@@ -5,37 +5,44 @@ Getting Involved
 Both unemployment and suicidality in numbers orders of magnitude beyond those
 found in neurotypical populations is common for autistic people
 
+[Emerging Activism](./activism.md 'Previous')
+-- [Neurodiversity](./README.md 'Main')
+-- [Setting the Stage](./introduction.md 'Next')
+
 
 Competition vs. Collaboration
 -----------------------------
 
-A sad reality showed a hand written plea for employment from a young autistic
-job seeker circulating on LinkedIn recently.  Inspiration porn or inspired job
-application?  You decide....
+[A sad reality](https://www.kwch.com/2021/03/15/letter-to-employer-posted-on-linkedin-goes-viral/)
+showed a hand written plea for employment from a young autistic job seeker
+circulating on LinkedIn recently.  Inspiration porn?  Inspired job application?
+You decide....
 
 I will say this: I'm weary of capitalism's reach into my living room.  My very
-way of being is controlled by others unless I amass a large enough pool of
-resources to force my opinion on a less fortunate group.  This, not by choice,
-by compulsion having faced unexplained rejection in every forum over decades
-of searching for a place I truly fit in and receive much needed support.
+way of being is controlled by others unless I manage to amass a large enough
+pool of resources to force my opinion on a less fortunate group.  This, not by
+choice, by compulsion having faced unexplained rejection in every forum over
+decades of searching for a place I truly fit in and receive much needed support.
+This is the system accepted through silence working as intended.
 
 While interviewing each of my last few managers one important question was posed
-each time which garnered only lies in response:
+each time which garnered only lies in reply:
 
 	How do you foster collaboration over competition within your team?
 
 I say lies because none of those teams focused on building the individuals who
-comprised the membership of those juggernauts shipping value biweekly.  Surely,
-I'm exaggerating...?  No.  These teams only built more efficient ways to extract
-value from many more people for the benefit of ever fewer.  I was fought at
-every single step when I raised concerns over accessibility in either product or
-process, but I still found ways to build consensus and enact change within those
-teams which respected team member needs as well as the mythical business user.
-Every single time such organization, driven by the very people providing the
-value leveraged by the business, was recognized in my personal history that same
-business acted to eliminate a perceived threat rising up (e.g. the axe fell on
-my neck instead of good ol' boy incompetents exposed via objective qualitative
-measures yet protected socially, illegitimately).
+comprised the membership of those juggernauts shipping value biweekly.
+
+Surely, I'm exaggerating...?!  No.  These teams only built more efficient ways to
+extract value from many more people for the benefit of ever fewer.  I was fought
+at every single step when I raised concerns over accessibility in either product
+or process, but I still found ways to build consensus and enact change within
+those teams which respected team member needs as well as the mythical business
+user.  Every single time such organization, driven by the very people providing
+the value leveraged by the business, was recognized in my personal history that
+same business acted to eliminate a perceived threat rising up (e.g. the axe fell
+on my neck instead of good ol' boy incompetents plainly exposed via objective
+qualitative measures yet protected socially).
 
 Those same teams had already documented improved outcomes via my advising toward
 inclusive practices by the time complaints of the onerous "extra workloads" they
@@ -59,14 +66,14 @@ than I ever previously imagined.  These questions remain:  Are there any teams
 out there that are actually pursuing this type of help?  Is there such a thing
 as a software development team focused on doing right by their customers as
 opposed to extracting value from their data...?  Is anyone putting people over
-profit (and realizing both)?
+profit (and thereby realizing both)?
 
-Not having tapped into autistic knowledge or received any help on the way there
+Not having tapped into autistic knowledge or received any help with discovery
 (i.e. no peers recognized and called out traits or suggestions for consulting
-diagnosticians), I have already established a track record as a neurodiversity
-activist running throughout my entire career in technology.  Now I choose to
-define activism as my primary objective.  Truly unique perspective, not to
-mention already highly profesionally accomplished, now accepting offers.
+diagnosticians) I have already, albeit accidentally, established a track record
+as a neurodiversity activist running throughout my entire career in technology.
+Today I choose to define activism as my primary objective.  Truly unique
+perspective, not to mention profesionally accomplished, now accepting offers.
 
 
 I'm Neurodivergent, Hire Me!
@@ -81,6 +88,7 @@ Personal Appraisal:
 * neurotypical "normal" is ableism
 * justice is impossible considering "just us"
 
+<div></div>
 
 * pattern / optimization / naming guru
 * active listener with adept in-depth reflection
@@ -88,12 +96,14 @@ Personal Appraisal:
 * foundational expertise prerequisite to rapid iteration
 * cognitive dissonance declaratively resolved in meta spaces
 
+<div></div>
 
 * automate anything (given time and budget)
 * entirely unique perspective (coming out stories)
 * double empathy and code switching are native
 * people skillz for dayz! (when in spoons)
 
+<div></div>
 
 * without advanced knowledge, responses vary widely
 * transitions away from ideas not fully expressed are difficult
@@ -102,6 +112,7 @@ Personal Appraisal:
 * expert meeting facilitation targeting maximal inclusion
 * decades of prior success in widely varying roles
 
+<div></div>
 
 * alarms, deadlines, on-call demands trigger anxiety
 * context switches are increasingly expensive as I age
@@ -109,7 +120,6 @@ Personal Appraisal:
 * synchronous communication forms by appointment only
 * transparency is key to building mutual trust
 * text / AAC & remote FTW!  async RULZ
-
 
 This list, by no means exhaustive, provides a glance into what anyone might
 expect while working with me from day to day.  Any questions or concerns will

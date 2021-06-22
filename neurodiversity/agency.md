@@ -4,15 +4,30 @@ Lacking Agency
 
 Four decades of gaslighting doesn't wash off easily
 
+[Ordered Identity](./identity.md) 'Previous')
+-- [Neurodiversity](./README.md 'Main')
+-- [Autistic Burnout](./burnout.md)  'Next')
+
 
 Reign of Shame
 --------------
 
-I've been racing to adapt to unrealistic expectations for that long, simply not
-knowing better.  Childhood sexual abuse at the hands of a barely mature predator
-who moved to the house at the end of the block one summer led to neglect because
-I couldn't possibly mean the horrible things I was saying about him or how he
-involved my infant sister in his debauchery.
+I've been racing to adapt to unrealistic expectations over four decades, simply
+oswing to not knowing any better.  Poorly understood invisible disabilities are
+ever present, but understanding and compassion worthy of those plights lacking.
+
+Childhood sexual abuse at the hands of a barely mature predator who moved to the
+house at the end of the block one summer led to neglect because I couldn't
+possibly mean the horrible things I was saying about him or how he involved my
+infant sister in his debauchery.  Absent body hair, but insatiably curious
+about the changes I was already feeling taking place, I fell prey to gaslighting
+while seeking advice.
+
+I have always enjoyed riding bikes immensely.  My brother kicked a skateboard
+under my bike wheels on a lark one summer day, sending me reeling.  On another
+occasion he blacked my eye to turn me away instead of explaining in terms I
+understood why it would be better for me not to tag along with his friends who
+seemed to be accepting of my company otherwise.
 
 Summers during college were spent toiling as 2nd to a general contractor and
 property maintenance contractor.  His eyes were more often on my legs than the
@@ -30,10 +45,13 @@ bi status without him.  It was a cold and lonely walk of shame that morning.
 
 I moved across the country, to a place I had zero desire to live, in support of
 a wife who never did obtain that masters degree during our 7 year marriage, the
-one I solely worked to support while awaiting my chance to focus on studies post
-securing employment with her fancy new credentials.
+one I solely worked to support while awaiting my chance to focus on studies
+supported by employment secured with her fancy new credentials.
 
-And I lost jobs because nobody was willing to examine my distress ....
+I found out job benefits only provide a mental health starter pack of a half
+dozen hour long sessions with a counselor, when they provided any at all. And I
+lost jobs because nobody was willing to examine my distress while I was bringing
+it to them in safe and healthy ways, the ways their orientations say to do it.
 
 I helped my partner move and buy her first house and supported her through the
 difficulties of late lives and deaths of both her parents.  It took 6 months to
@@ -41,9 +59,15 @@ get her to read even a single book about the topic that has upended my entire
 outlook on life.  She disowned her sisters over lack of support before, but now
 she communicates with them more often than I.  She cut me out of most of her
 daily life without any explanation, yet still takes any benefit I offer,
-begging patience as she works through it on her own.
+begging patience as she works stuff out on her own.
 
-And I lost jobs because nobody was willing to provide accomodations ....
+After years of loose affiliation with intellectual and developmental disability
+workers and volunteering with some of their clients I began to identify as
+autistic, and I lost jobs because nobody was willing to provide accomodations.
+Even after submitting myself to official diagnosis and paying out of pocket for
+those and related psychiatric and counselling sessions, the best I was able to
+garner with full disclosure was denial due to favoritism, except on the two
+isolated occasions they vaunted.
 
 
 Ill Fit
