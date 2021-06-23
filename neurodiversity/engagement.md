@@ -33,15 +33,27 @@ each time which garnered only lies in reply:
 I say lies because none of those teams focused on building the individuals who
 comprised the membership of those juggernauts shipping value biweekly.
 
-Surely, I'm exaggerating...?!  No.  These teams only built more efficient ways to
-extract value from many more people for the benefit of ever fewer.  I was fought
-at every single step when I raised concerns over accessibility in either product
-or process, but I still found ways to build consensus and enact change within
-those teams which respected team member needs as well as the mythical business
-user.  Every single time such organization, driven by the very people providing
-the value leveraged by the business, was recognized in my personal history that
-same business acted to eliminate a perceived threat rising up (e.g. the axe fell
-on my neck instead of good ol' boy incompetents plainly exposed via objective
+Surely, I'm exaggerating...?!  No.  One case in point was the wide distribution
+encouraged after a developer on my sprint team, having obviously mistaken some
+communication failure as my personal deficit, sent out an article disparaging
+"expert beginners" as unknowing immitators then repeatedly had loud conversation
+near me about how some people were clueless to their own imposter behavior....
+Nevermind that most of my clarifying questions were overridden as though I
+simply hadn't done my homework.  He seemed certain we were all fighting over
+supremacy vs. clawing out a spare living by leaving everything one has on the
+playing field.  He spoke as though we should all have read from the same page
+and come to the same conclusions, his neurotypical white privilege blindness was
+phenomenal, and the recruitment efforts were dizzying!
+
+These teams only built more efficient ways to extract value from many more
+people for the benefit of ever fewer.  I was fought at every single step when I
+raised concerns over accessibility in either product or process, but I still
+found ways to build consensus and enact change within those teams while showing
+respect for team member needs as well as the mythical business user.  Every
+single time such organization, driven by the very people providing the value
+leveraged by the business, was recognized in my personal history that same
+business acted to eliminate a perceived threat rising up (e.g. the axe fell on
+my neck instead of good ol' boy incompetents plainly exposed using objective
 qualitative measures yet protected socially).
 
 Those same teams had already documented improved outcomes via my advising toward
@@ -58,22 +70,26 @@ went ignored until repeated once too often.  Any outbursts (surely the most
 common aspect these teams would describe of my behavior with revisionist
 histories being what they are...) were autistic reactions to people fighting to
 obscure meaning, to encode "clever" (e.g. difficult to decipher) solutions, to
-flout well tested best practices or the [ADA](https://www.essentialaccessibility.com/blog/ada-guidelines)
-and every single protection it stands for regarding digital environments.  Abuse
-of power, the bellweather of ensured neglect and exclusion.  Since completing
-recent research into the state of autism advocacy I see so much more unmet need
-than I ever previously imagined.  These questions remain:  Are there any teams
-out there that are actually pursuing this type of help?  Is there such a thing
-as a software development team focused on doing right by their customers as
-opposed to extracting value from their data...?  Is anyone putting people over
-profit (and thereby realizing both)?
+flout well tested best practices or the
+[ADA](https://www.essentialaccessibility.com/blog/ada-guidelines) and every
+single protection it stands for regarding digital environments.
+
+Abuse of power, the bellweather of ensured neglect and exclusion, is something
+I have never been able to abide.  Since completing a recent round of research
+into the state of autism advocacy I see so much more unmet need than I ever
+previously imagined.  These questions remain:  Are there any teams out there
+that are actually pursuing this type of help?  Is there such a thing as a
+software development team focused on doing right by their customers as opposed
+to extracting value from their data...?  Is anyone putting people over profit
+(and thereby realizing both)?
 
 Not having tapped into autistic knowledge or received any help with discovery
 (i.e. no peers recognized and called out traits or suggestions for consulting
 diagnosticians) I have already, albeit accidentally, established a track record
-as a neurodiversity activist running throughout my entire career in technology.
-Today I choose to define activism as my primary objective.  Truly unique
-perspective, not to mention profesionally accomplished, now accepting offers.
+as a neurodiversity activist.  Direct effort applied toward equitable working
+relationships runs throughout my entire career in technology.  Today I choose to
+define activism as my primary objective.  Truly unique perspective, not to
+mention profesionally accomplished, now accepting offers.
 
 
 I'm Neurodivergent, Hire Me!
@@ -86,7 +102,7 @@ Personal Appraisal:
 * self-motivated autodidact
 * rushing is an anti-workflow
 * neurotypical "normal" is ableism
-* justice is impossible considering "just us"
+* justice is impossible when its "just us"
 
 <div></div>
 
@@ -100,8 +116,8 @@ Personal Appraisal:
 
 * automate anything (given time and budget)
 * entirely unique perspective (coming out stories)
-* double empathy and code switching are native
-* people skillz for dayz! (when in spoons)
+* double empathy and code switching natively expressed
+* people skills for days (when I have spoons)
 
 <div></div>
 
@@ -114,10 +130,10 @@ Personal Appraisal:
 
 <div></div>
 
-* alarms, deadlines, on-call demands trigger anxiety
-* context switches are increasingly expensive as I age
-* observation / cataloguing / munging are restive states
+* alarms, deadlines, on-call demands trigger dysregulation
+* observation / cataloging / munging are restive states
 * synchronous communication forms by appointment only
+* context switches increasingly expensive as I age
 * transparency is key to building mutual trust
 * text / AAC & remote FTW!  async RULZ
 
