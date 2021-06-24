@@ -15,15 +15,17 @@ Competition vs. Collaboration
 
 [A sad reality](https://www.kwch.com/2021/03/15/letter-to-employer-posted-on-linkedin-goes-viral/)
 showed a hand written plea for employment from a young autistic job seeker
-circulating on LinkedIn recently.  Inspiration porn?  Inspired job application?
-You decide....
+circulating on LinkedIn recently.  Did it go viral and capture multiple
+national network newsrooms because it was inspiration porn?  Or an inspired job
+application?  You decide....  I know which one I've seen represented more often
+(and it isn't growing any savings accounts).
 
 I will say this: I'm weary of capitalism's reach into my living room.  My very
 way of being is controlled by others unless I manage to amass a large enough
 pool of resources to force my opinion on a less fortunate group.  This, not by
 choice, by compulsion having faced unexplained rejection in every forum over
 decades of searching for a place I truly fit in and receive much needed support.
-This is the system accepted through silence working as intended.
+This is a system accepted through silence of privileged working as intended.
 
 While interviewing each of my last few managers one important question was posed
 each time which garnered only lies in reply:
@@ -31,7 +33,7 @@ each time which garnered only lies in reply:
 	How do you foster collaboration over competition within your team?
 
 I say lies because none of those teams focused on building the individuals who
-comprised the membership of those juggernauts shipping value biweekly.
+comprised the membership of juggernauts shipping value biweekly.
 
 Surely, I'm exaggerating...?!  No.  One case in point was the wide distribution
 encouraged after a developer on my sprint team, having obviously mistaken some
@@ -43,35 +45,37 @@ simply hadn't done my homework.  He seemed certain we were all fighting over
 supremacy vs. clawing out a spare living by leaving everything one has on the
 playing field.  He spoke as though we should all have read from the same page
 and come to the same conclusions, his neurotypical white privilege blindness was
-phenomenal, and the recruitment efforts were dizzying!
+truly phenomenal, and the recruitment efforts were dizzying!
 
 These teams only built more efficient ways to extract value from many more
 people for the benefit of ever fewer.  I was fought at every single step when I
 raised concerns over accessibility in either product or process, but I still
 found ways to build consensus and enact change within those teams while showing
 respect for team member needs as well as the mythical business user.  Every
-single time such organization, driven by the very people providing the value
-leveraged by the business, was recognized in my personal history that same
-business acted to eliminate a perceived threat rising up (e.g. the axe fell on
-my neck instead of good ol' boy incompetents plainly exposed using objective
-qualitative measures yet protected socially).
+single time such organizing, driven by the very people providing the value
+leveraged by the business in its imprudent bids to control destiny, was
+recognized the business acted to eliminate a perceived threat rising up (e.g.
+the axe fell on my neck instead of good ol' boy incompetents plainly exposed
+using objective qualitative measures yet protected socially).  Kill an odd duck.
 
-Those same teams had already documented improved outcomes via my advising toward
-inclusive practices by the time complaints of the onerous "extra workloads" they
-were suffering for "purely theorectical gains" defaulted us back into methods
-which easily doubled my personal workload via peer negligence alone.  Instead
-of honoring our shared struggle and platforming these examples of successful
-inclusion, my very real needs were written off as the cost of doing business.
+The irony is those same teams had already documented improved outcomes via my
+advising toward inclusive practices by the time complaints of the onerous "extra
+workloads" they were suffering for "purely theorectical gains" defaulted us back
+into methods which easily doubled my personal workload via peer negligence
+alone.  Instead of honoring our shared struggle and platforming these examples
+of successful inclusion, and actually employing iterative process, dog fooding,
+walking the talk, my very real needs were written off as the cost of doing
+business.  Must accellerate ROI!
 
 In each of the jobs I left without a plan for how to continue fulfilling my
 budget obligations it was direct response to backstabbing or belligerant peers
-which gave rise to any reported conflict.  My quiet consistent pleas for aide
-went ignored until repeated once too often.  Any outbursts (surely the most
-common aspect these teams would describe of my behavior with revisionist
-histories being what they are...) were autistic reactions to people fighting to
-obscure meaning, to encode "clever" (e.g. difficult to decipher) solutions, to
-flout well tested best practices or the
-[ADA](https://www.essentialaccessibility.com/blog/ada-guidelines) and every
+which gave rise to any reported conflict.  Without fail my quiet and consistent
+pleas for aide accompanied by alternative solutions went ignored until repeated
+once too often.  Any outbursts (surely the most common aspect these teams would
+describe of my behavior with revisionist histories being what they are...) were
+autistic reactions to people fighting to obscure meaning, to encode "clever"
+(e.g. difficult to decipher) solutions, to flout well tested best practices or
+the [ADA](https://www.essentialaccessibility.com/blog/ada-guidelines) and every
 single protection it stands for regarding digital environments.
 
 Abuse of power, the bellweather of ensured neglect and exclusion, is something
@@ -81,15 +85,17 @@ previously imagined.  These questions remain:  Are there any teams out there
 that are actually pursuing this type of help?  Is there such a thing as a
 software development team focused on doing right by their customers as opposed
 to extracting value from their data...?  Is anyone putting people over profit
-(and thereby realizing both)?
+(and thereby realizing both)?  Is the Chief Neurodiversity Officer a thing...?
 
-Not having tapped into autistic knowledge or received any help with discovery
-(i.e. no peers recognized and called out traits or suggestions for consulting
-diagnosticians) I have already, albeit accidentally, established a track record
-as a neurodiversity activist.  Direct effort applied toward equitable working
-relationships runs throughout my entire career in technology.  Today I choose to
-define activism as my primary objective.  Truly unique perspective, not to
-mention profesionally accomplished, now accepting offers.
+Without having tapped into autistic knowledge or receiving any help with
+discovery (i.e. no peers recognized and called out traits or suggestions for
+consulting diagnosticians -- if anything I was even more excluded from team
+activities after raising the topic over morning coffee) I have already, albeit
+accidentally, established a track record as a neurodiversity activist.  Direct
+effort applied toward equitable working relationships runs throughout my entire
+career in technology.  Today, having found my tribe, I declare my choice to
+define activism against bias as my primary objective.  Truly unique perspective,
+not to mention profesionally accomplished, now accepting offers.
 
 
 I'm Neurodivergent, Hire Me!
@@ -117,7 +123,7 @@ Personal Appraisal:
 * automate anything (given time and budget)
 * entirely unique perspective (coming out stories)
 * double empathy and code switching natively expressed
-* people skills for days (when I have spoons)
+* people skills for days (when I have spoons and support)
 
 <div></div>
 
@@ -148,4 +154,13 @@ have full confidence in facing any advocacy, software development, or management
 responsibility.  The power, as ever, is in the hands of those holding.
 
 What do you say?  Do you see value in what I offer?
+
+
+P.S.
+----
+
+One would be doing both of us a disservice by reading hidden meaning into
+anything written here.  I choose specific words very deliberately to express
+any meaningful idea.  Please honor that without injecting or projecting.  That
+said, I welcome criticism and encouragement alike.
 
