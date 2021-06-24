@@ -131,7 +131,7 @@ Personal Appraisal:
 * transitions away from ideas not fully expressed are difficult
 * resolute until data proves otherwise, then quick to adapt / update
 * deliberate and thorough w/ eyes on intersectionality and human rights
-* expert meeting facilitation targeting maximal inclusion
+* multimodal meeting facilitation targeting maximal inclusion
 * decades of prior success in widely varying roles
 
 <div></div>
@@ -162,5 +162,7 @@ P.S.
 One would be doing both of us a disservice by reading hidden meaning into
 anything written here.  I choose specific words very deliberately to express
 any meaningful idea.  Please honor that without injecting or projecting.  That
-said, I welcome criticism and encouragement alike.
+said, [I welcome criticism and encouragement alike](https://github.com/gurumojo/text/issues/new).
+
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/gurumojo)
 

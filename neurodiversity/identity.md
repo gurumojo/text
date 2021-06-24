@@ -172,12 +172,12 @@ between risky behavior and the razor edge separating appearances of health from
 those called disease.
 
 I also learned what it is to really sing in harmony and reverberate with my
-whole body in mighty unison under expert direction.  I attended master classes
+whole body in mighty unison under precise direction.  I attended master classes
 with internationally touring jazz singers, played the part of a haunted statue
 in an opera and thumped out bass lines in an a capella group between concert
-acts.  It was there doing what I most loved that I first experienced autistic
-burnout without recognizing it.  Nobody in my life used the A word beyond
-passing curiosity, so how could I?
+choir sets.  It was there doing what I most loved that I first experienced
+autistic burnout without recognizing it.  Nobody in my life used the A word
+beyond passing curiosity, so how could I?
 
 Go Bears!
 
@@ -198,14 +198,15 @@ after tale describe the debauchery and I read subtext all too well.  I was so
 desperate for company around that time I honestly didn't see much harm in the
 potential risks inherent in whoring myself to a complete stranger over being
 able to resolve intense experiential curiosity and maybe for a moment feel
-anything but numb.  The $7 orange juices at the strip club down the block just
-weren't cutting it for me.  I told myself it was for the science.  I can still
-see details of that room when my mind wanders.  The part that really and truly
-got me down about that night ...?  He was so devoid of love.  I went more as a
-check-in on possible futures than I ever felt compelled by using drugs or
-sharing his life, and after settling my freebase account and a bit of polite
-conversation I walked out almost as shattered as that last glimpse of his eyes
-told me he was over losing his new friend.
+anything but numb.  The $7 orange juices at the strip club down the block from
+the first apartment I had totally on my own just weren't cutting it for me.  I
+told myself it was for the science.  I can still see details of that room when
+my mind wanders.  The part that really and truly got me down that night...?
+He was so devoid of love.  I went more to spy on possible futures than I ever
+felt compelled by using drugs or sharing his life, and after settling my
+freebase account and a bit of polite conversation I walked out almost as
+shattered as that last glimpse of his eyes told me he was over losing a new
+friend.
 
 I could still become him according to a recent psychological profile.
 
