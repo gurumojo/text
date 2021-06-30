@@ -4,17 +4,17 @@ Lacking Agency
 
 Four decades of gaslighting doesn't wash off easily
 
-[Ordered Identity](./identity.md) 'Previous')
+[Ordered Identity](./identity.md 'Previous')
 -- [Neurodiversity](./README.md 'Main')
--- [Autistic Burnout](./burnout.md)  'Next')
+-- [Autistic Burnout](./burnout.md  'Next')
 
 
 Reign of Shame
 --------------
 
 I've been racing to adapt to unrealistic expectations over four decades, simply
-oswing to not knowing any better.  Poorly understood invisible disabilities are
-ever present, but understanding and compassion worthy of those plights lacking.
+owing to not knowing any better.  Poorly understood invisible disabilities are
+ever present, but outreach and compassion worthy of those plights lacking.
 
 Childhood sexual abuse at the hands of a barely mature predator who moved to the
 house at the end of the block one summer led to neglect because I couldn't
@@ -53,13 +53,13 @@ dozen hour long sessions with a counselor, when they provided any at all. And I
 lost jobs because nobody was willing to examine my distress while I was bringing
 it to them in safe and healthy ways, the ways their orientations say to do it.
 
-I helped my partner move and buy her first house and supported her through the
-difficulties of late lives and deaths of both her parents.  It took 6 months to
-get her to read even a single book about the topic that has upended my entire
-outlook on life.  She disowned her sisters over lack of support before, but now
-she communicates with them more often than I.  She cut me out of most of her
-daily life without any explanation, yet still takes any benefit I offer,
-begging patience as she works stuff out on her own.
+I helped my most recent partner move and buy her first house and supported her
+through the difficulties of late lives and deaths of both her parents.  It took
+6 months to get her to read even a single book about the topic that has upended
+my entire outlook on life.  She disowned her sisters over lack of support
+before, but now she communicates with them more often than I.  She cut me out of
+most of her daily life without any explanation, yet still takes any benefit I
+offer, begging patience as she works stuff out on her own.
 
 After years of loose affiliation with intellectual and developmental disability
 workers and volunteering with some of their clients I began to identify as

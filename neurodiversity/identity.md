@@ -4,9 +4,9 @@ Ordered Identity
 
 Identification is personally rooted and wholly owned by holders of intent
 
-[Intersectionality](./intersectionality.md) 'Previous')
+[Intersectionality](./intersectionality.md 'Previous')
 -- [Neurodiversity](./README.md 'Main')
--- [Lacking Agency](./agency.md) 'Next')
+-- [Lacking Agency](./agency.md 'Next')
 
 
 Personal vs. Cultural

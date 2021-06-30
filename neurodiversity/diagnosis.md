@@ -4,9 +4,9 @@ My Flavor of Autism
 
 Once you've met one autistic person, you've met one autistic person
 
-[Setting the Stage](./introduction.md) 'Previous')
+[Setting the Stage](./introduction.md 'Previous')
 -- [Neurodiversity](./README.md 'Main')
--- [Intersectionality](./intersectionality.md) 'Next')
+-- [Intersectionality](./intersectionality.md 'Next')
 
 
 Setting the Stage

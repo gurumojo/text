@@ -4,9 +4,9 @@ Setting the Stage
 
 Our internal wiring plans are different
 
-[Getting Involved](./engagement.md) 'Previous')
+[Getting Involved](./engagement.md 'Previous')
 -- [Neurodiversity](./README.md 'Main')
--- [My Flavor of Autism](./diagnosis.md) 'Next')
+-- [My Flavor of Autism](./diagnosis.md 'Next')
 
 
 Emerging Activism

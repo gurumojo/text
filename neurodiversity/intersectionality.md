@@ -4,9 +4,9 @@ Intersectionality
 
 Did the group being spoken about have representation?
 
-[My Flavor of Autism](./diagnosis.md) 'Previous')
+[My Flavor of Autism](./diagnosis.md 'Previous')
 -- [Neurodiversity](./README.md 'Main')
--- [Ordered Identity](./identity.md) 'Next')
+-- [Ordered Identity](./identity.md 'Next')
 
 
 I Stand with Nonspeakers

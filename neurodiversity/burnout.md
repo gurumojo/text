@@ -4,9 +4,9 @@ Autistic Burnout
 
 An impactful reminder that I'm not in charge
 
-[Lacking Agency](./agency.md) 'Previous')
+[Lacking Agency](./agency.md 'Previous')
 -- [Neurodiversity](./README.md 'Main')
--- [Emerging Activism](./activism.md) 'Next')
+-- [Emerging Activism](./activism.md 'Next')
 
 
 Loss of Control
