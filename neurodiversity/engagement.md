@@ -35,17 +35,20 @@ each time which garnered only lies in reply:
 I say lies because none of those teams focused on building the individuals who
 comprised the membership of juggernauts shipping value biweekly.
 
-Surely, I'm exaggerating...?!  No.  One case in point was the wide distribution
-encouraged after a developer on my sprint team, having obviously mistaken some
-communication failure as my personal deficit, sent out an article disparaging
-"expert beginners" as unknowing immitators then repeatedly had loud conversation
-near me about how some people were clueless to their own imposter behavior....
-Nevermind that most of my clarifying questions were overridden as though I
-simply hadn't done my homework.  He seemed certain we were all fighting over
-supremacy vs. clawing out a spare living by leaving everything one has on the
-playing field.  He spoke as though we should all have read from the same page
-and come to the same conclusions, his neurotypical white privilege blindness was
-truly phenomenal, and the recruitment efforts were dizzying!
+Surely, I'm exaggerating...?!  No (I will not accept any further gaslighting).
+
+One case in point was the wide distribution encouraged after a developer on my
+sprint team, having obviously mistaken some communication failure as my personal
+deficit, sent out an article disparaging "expert beginners" as unknowing
+immitators then repeatedly had loud conversation near me about how some people
+were clueless to their own imposter behavior....  Nevermind that most of my
+clarifying questions were overridden as though I simply hadn't done my homework
+the very moment any teammate's "brilliant solution" had any weakness exposed.
+He seemed certain we were all fighting over supremacy vs. clawing out a spare
+living by leaving everything one has on the playing field for the benefit of the
+whole team.  He spoke as though we should all have read from the same page and
+come to the same conclusions, his blindness to his own neurotypical white
+privilege was truly phenomenal, and the recruitment efforts were dizzying!
 
 These teams only built more efficient ways to extract value from many more
 people for the benefit of ever fewer.  I was fought at every single step when I
@@ -54,16 +57,16 @@ found ways to build consensus and enact change within those teams while showing
 respect for team member needs as well as the mythical business user.  Every
 single time such organizing, driven by the very people providing the value
 leveraged by the business in its imprudent bids to control destiny, was
-recognized the business acted to eliminate a perceived threat rising up (e.g.
-the axe fell on my neck instead of good ol' boy incompetents plainly exposed
-using objective qualitative measures yet protected socially).  Kill an odd duck.
+recognized by the business it acted to eliminate a perceived threat rising up
+(e.g.  the axe fell on my neck instead of good ol' boy incompetents plainly
+exposed using objective qualitative measures).  When in doubt, kill an odd duck.
 
 The irony is those same teams had already documented improved outcomes via my
 advising toward inclusive practices by the time complaints of the onerous "extra
 workloads" they were suffering for "purely theorectical gains" defaulted us back
 into methods which easily doubled my personal workload via peer negligence
 alone.  Instead of honoring our shared struggle and platforming these examples
-of successful inclusion, and actually employing iterative process, dog fooding,
+of successful inclusion and actually employing iterative process, dog fooding,
 walking the talk, my very real needs were written off as the cost of doing
 business.  Must accellerate ROI!
 
@@ -83,9 +86,10 @@ I have never been able to abide.  Since completing a recent round of research
 into the state of autism advocacy I see so much more unmet need than I ever
 previously imagined.  These questions remain:  Are there any teams out there
 that are actually pursuing this type of help?  Is there such a thing as a
-software development team focused on doing right by their customers as opposed
-to extracting value from their data...?  Is anyone putting people over profit
-(and thereby realizing both)?  Is the Chief Neurodiversity Officer a thing...?
+software development team focused on doing right by their members and customers
+as opposed to extracting maximal value from their data...?  Is anyone putting
+people over profit (and thereby realizing both)?  Is the role of Chief
+Neurodiversity Officer a thing...?
 
 Without having tapped into autistic knowledge or receiving any help with
 discovery (i.e. no peers recognized and called out traits or suggestions for
@@ -150,11 +154,11 @@ thoughtful follow-up.  Generally affable and open, I've found that times I've
 been described as aggressive or offputting have almost exclusively followed
 distress and overstimulation due to lacking accomodations.  Knowledge gained
 through recent networking and research have fleshed out my personal tool chain
-to the point I have full confidence in facing any advocacy, software
-development, or management responsibility.  The power, as ever, is in the hands
-of those holding.
+to the point I have full confidence in embracing any roles with advocacy,
+software development, or management responsibility.  The power, as ever, is in
+the hands of those holding.
 
-What do you say?  Do you see value in what I offer?
+What do you say?  Do you see value in what I offer?  Let's discuss!
 
 
 P.S.
