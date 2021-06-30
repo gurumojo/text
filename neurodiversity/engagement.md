@@ -148,10 +148,11 @@ expect while working with me from day to day.  Any questions or concerns will
 be easily addressed in conversation;  I wrote with the intention of spurring
 thoughtful follow-up.  Generally affable and open, I've found that times I've
 been described as aggressive or offputting have almost exclusively followed
-overstimulation due to lacking accomodations.  Knowledge gained through recent
-networking and research have fleshed out my personal tool chain to the point I
-have full confidence in facing any advocacy, software development, or management
-responsibility.  The power, as ever, is in the hands of those holding.
+distress and overstimulation due to lacking accomodations.  Knowledge gained
+through recent networking and research have fleshed out my personal tool chain
+to the point I have full confidence in facing any advocacy, software
+development, or management responsibility.  The power, as ever, is in the hands
+of those holding.
 
 What do you say?  Do you see value in what I offer?
 
@@ -162,7 +163,8 @@ P.S.
 One would be doing both of us a disservice by reading hidden meaning into
 anything written here.  I choose specific words very deliberately to express
 any meaningful idea.  Please honor that without injecting or projecting.  That
-said, [I welcome criticism and encouragement alike](https://github.com/gurumojo/text/issues/new).
+said, [I welcome criticism](https://github.com/gurumojo/text/issues/new) and
+encouragement alike.
 
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/gurumojo)
+[![Support me on Ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/gurumojo)
 
