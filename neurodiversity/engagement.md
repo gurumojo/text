@@ -3,7 +3,7 @@ Getting Involved
 ================
 
 Both unemployment and suicidality in numbers orders of magnitude beyond those
-found in neurotypical populations is common for autistic people
+found in neurotypical populations are common among autistic people
 
 [Emerging Activism](./activism.md 'Previous')
 -- [Neurodiversity](./README.md 'Main')
@@ -25,17 +25,20 @@ way of being is controlled by others unless I manage to amass a large enough
 pool of resources to force my opinion on a less fortunate group.  This, not by
 choice, by compulsion having faced unexplained rejection in every forum over
 decades of searching for a place I truly fit in and receive much needed support.
-This is a system accepted through silence of privileged working as intended.
+This system, accepted via silence of privileged, works precisely as intended
+and the have nots keep not having regardless of morals, habits, effort, luck,
+or any other nonsensical conclusion which rules out universal minimum income
+and person centered healthcare without personal expense.
 
 While interviewing each of my last few managers one important question was posed
-each time which garnered only lies in reply:
+each time. This inquiry has garnered only lies in reply:
 
 	How do you foster collaboration over competition within your team?
 
 I say lies because none of those teams focused on building the individuals who
 comprised the membership of juggernauts shipping value biweekly.
 
-Surely, I'm exaggerating...?!  No (I will not accept any further gaslighting).
+Surely, I'm exaggerating...?!  No, and I will not accept further gaslighting.
 
 One case in point was the wide distribution encouraged after a developer on my
 sprint team, having obviously mistaken some communication failure as my personal
@@ -58,7 +61,7 @@ respect for team member needs as well as the mythical business user.  Every
 single time such organizing, driven by the very people providing the value
 leveraged by the business in its imprudent bids to control destiny, was
 recognized by the business it acted to eliminate a perceived threat rising up
-(e.g.  the axe fell on my neck instead of good ol' boy incompetents plainly
+(e.g. the axe fell on my neck instead of any good ol' boy incompetents plainly
 exposed using objective qualitative measures).  When in doubt, kill an odd duck.
 
 The irony is those same teams had already documented improved outcomes via my
@@ -67,39 +70,48 @@ workloads" they were suffering for "purely theorectical gains" defaulted us back
 into methods which easily doubled my personal workload via peer negligence
 alone.  Instead of honoring our shared struggle and platforming these examples
 of successful inclusion and actually employing iterative process, dog fooding,
-walking the talk, my very real needs were written off as the cost of doing
-business.  Must accellerate ROI!
+walking the talk, my very real human needs were written off as nothing more than
+the cost of doing business.  Must accellerate ROI!
+
+
+Coming About
+------------
 
 In each of the jobs I left without a plan for how to continue fulfilling my
 budget obligations it was direct response to backstabbing or belligerant peers
 which gave rise to any reported conflict.  Without fail my quiet and consistent
 pleas for aide accompanied by alternative solutions went ignored until repeated
-once too often.  Any outbursts (surely the most common aspect these teams would
+once too often and then I would suddenly be described as presenting problematic
+behavior.  Any outbursts (surely the most common aspect these teams would
 describe of my behavior with revisionist histories being what they are...) were
-autistic reactions to people fighting to obscure meaning, to encode "clever"
-(e.g. difficult to decipher) solutions, to flout well tested best practices or
-the [ADA](https://www.essentialaccessibility.com/blog/ada-guidelines) and every
-single protection it stands for regarding digital environments.
+autistic reactions to people actually fighting to obscure meaning, to encode
+clever solutions (e.g. difficult to decipher) for their own amusement, to flout
+most well tested best practices and the [ADA](https://www.essentialaccessibility.com/blog/ada-guidelines)
+with every single protection it stands for regarding digital environments.
 
 Abuse of power, the bellweather of ensured neglect and exclusion, is something
 I have never been able to abide.  Since completing a recent round of research
-into the state of autism advocacy I see so much more unmet need than I ever
-previously imagined.  These questions remain:  Are there any teams out there
-that are actually pursuing this type of help?  Is there such a thing as a
-software development team focused on doing right by their members and customers
-as opposed to extracting maximal value from their data...?  Is anyone putting
-people over profit (and thereby realizing both)?  Is the role of Chief
-Neurodiversity Officer a thing...?
+into the state of neurodivergent advocacy I see so much more unmet need than I
+ever previously imagined or witnessed.  These questions remain:  Are there any
+teams out there actually pursuing honorable work with integrity?  Is there such
+a thing as a software development team focused on doing right by their members
+and customers as opposed to extracting maximal value from their data...?  Is
+anyone putting people over profit (and thereby realizing both)?  Is the role of
+Chief Neurodiversity Officer a thing...?
 
-Without having tapped into autistic knowledge or receiving any help with
-discovery (i.e. no peers recognized and called out traits or suggestions for
-consulting diagnosticians -- if anything I was even more excluded from team
+Without having tapped into autistic knowledge networks or received any guidance
+into discovery (i.e. no peers recognized and called out traits or suggestions
+for consulting diagnosticians -- if anything I was even more excluded from team
 activities after raising the topic over morning coffee) I have already, albeit
-accidentally, established a track record as a neurodiversity activist.  Direct
+subconsciously, established a track record as a neurodiversity activist.  Direct
 effort applied toward equitable working relationships runs throughout my entire
 career in technology.  Today, having found my tribe, I declare my choice to
-define activism against bias as my primary objective.  Truly unique perspective,
-not to mention profesionally accomplished, now accepting offers.
+define activism against bias as my primary objective.
+
+Truly unique perspective, not to mention professionally accomplished, now
+accepting offers.
+
+[![Support me on Ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/gurumojo)
 
 
 I'm Neurodivergent, Hire Me!
@@ -131,7 +143,7 @@ Personal Appraisal:
 
 <div></div>
 
-* without advanced knowledge, responses vary widely
+* without advanced topic knowledge, responses may vary widely
 * transitions away from ideas not fully expressed are difficult
 * resolute until data proves otherwise, then quick to adapt / update
 * deliberate and thorough w/ eyes on intersectionality and human rights
@@ -149,12 +161,12 @@ Personal Appraisal:
 
 This list, by no means exhaustive, provides a glance into what anyone might
 expect while working with me from day to day.  Any questions or concerns will
-be easily addressed in conversation;  I wrote with the intention of spurring
-thoughtful follow-up.  Generally affable and open, I've found that times I've
-been described as aggressive or offputting have almost exclusively followed
-distress and overstimulation due to lacking accomodations.  Knowledge gained
-through recent networking and research have fleshed out my personal tool chain
-to the point I have full confidence in embracing any roles with advocacy,
+be easily addressed in dialogue;  I wrote specifically with the intention of
+spurring thoughtful follow-up.  Generally affable and open, I've found that
+times I've been described as aggressive or offputting have almost exclusively
+followed distress and overstimulation due to lacking accomodations.  Knowledge
+gained through recent networking and research have fleshed out my personal tool
+chain to the point I have full confidence in embracing any roles with advocacy,
 software development, or management responsibility.  The power, as ever, is in
 the hands of those holding.
 
@@ -165,10 +177,11 @@ P.S.
 ----
 
 One would be doing both of us a disservice by reading hidden meaning into
-anything written here.  I choose specific words very deliberately to express
-any meaningful idea.  Please honor that without injecting or projecting.  That
-said, [I welcome criticism](https://github.com/gurumojo/text/issues/new) and
-encouragement alike.
+anything written here.  I work transparently and choose words very deliberately
+when striving to express any meaningful idea.  Please honor that by considering
+without injecting or projecting.  If you don't grok my meaning at face value, I
+prefer to rephrase or reframe the concept myself;  just admit confusion and ask!
+That said, [I welcome criticism](https://github.com/gurumojo/text/issues/new)
+and encouragement alike.  Introspection is invaluable in moments of discomfort.
 
-[![Support me on Ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/gurumojo)
 

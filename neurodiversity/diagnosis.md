@@ -9,8 +9,8 @@ Once you've met one autistic person, you've met one autistic person
 -- [Intersectionality](./intersectionality.md 'Next')
 
 
-Setting the Stage
------------------
+Defining Actual
+---------------
 
 Autistic advocates provide messaging online quite contrary to most colloquial
 wisdom about autistic experience.  My attempts at accessing much needed care or
@@ -34,7 +34,7 @@ paper, I have fought for underdogs at every opportunity and I have paid dearly
 for it in comparison to the privilege and ease I witness regarding neurotypical
 examples from my census peer group in my chosen field (e.g. anyone capable of
 passing through modern cultures as a straight white/cis/male builder of internet
-things).  Study of Black History in college, and recent inspiration from the
+things).  Study of Black History in college added to recent inspiration from the
 public outpouring of support for the Black Lives Matter movement and the
 ramifications for oppressed classes of people everywhere, coupled with deep
 introspective work aiming at unwinding the internalized ableism and racism baked
@@ -78,7 +78,8 @@ The most disabling feature of a life autistic for many adults has not been
 physical deformity, but social oppression seeking to enforce a mythical normal;
 systems and infrastructure built fully ignorant to their common needs; effects
 of a total lack of willingness to hold space embracing uncommon or undesirable
-ways of being.
+ways of being.  Of course, to battle effectively against such odds one must be
+[armed with the knowledge of their own surrounding context](./test.md).
 
 Writ large by those dubbing themselves allies amidst gnashing of teeth at how
 much suffering *they* face at the hands of this so called monstrous calamity,

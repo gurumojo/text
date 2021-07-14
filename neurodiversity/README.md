@@ -86,7 +86,8 @@ I am an [#autistic](https://twitter.com/hashtag/autistic)
 and it is also accurate and acceptable to refer to me as a
 [#disabled](https://twitter.com/hashtag/disabled)
 [#neurodivergent](https://twitter.com/hashtag/neurodivergent)
-[#enby](https://twitter.com/hashtag/enby).
+[#enby](https://twitter.com/hashtag/enby)
+or one possessing [#gurumojo](https://twitter.com/hashtag/gurumojo).
 
 [#ADHDAutism](https://twitter.com/hashtag/ADHDAutism)
 [#ADHD](https://twitter.com/hashtag/ADHD)
@@ -101,10 +102,14 @@ and it is also accurate and acceptable to refer to me as a
 [#BiPride](https://twitter.com/hashtag/BiPride)
 [#BlackLivesMatter](https://twitter.com/hashtag/BlackLivesMatter)
 [#CPTSD](https://twitter.com/hashtag/CPTSD)
+[#CloudComputing](https://twitter.com/hashtag/CloudComputing)
 [#CommunicationFirst](https://twitter.com/hashtag/CommunicationFirst)
+[#DigitalMentor](https://twitter.com/hashtag/DigitalMentor)
 [#EnbyPride](https://twitter.com/hashtag/EnbyPride)
+[#EventPipeline](https://twitter.com/hashtag/EventPipeline)
 [#IStandWithNonspeakers](https://twitter.com/hashtag/IStandWithNonspeakers)
 [#NEISVoid](https://twitter.com/hashtag/NEISVoid)
+[#NeurodivergentAdvocacy](https://twitter.com/hashtag/NeurodivergentAdvocacy)
 [#NeurodiverseSquad](https://twitter.com/hashtag/NeurodiverseSquad)
 [#NordicPride](https://twitter.com/hashtag/NordicPride)
 [#TheyThemTheirs](https://twitter.com/hashtag/TheyThemTheirs)
@@ -127,4 +132,8 @@ partner allowing time to break down safely after my support of repeated family
 tragedies.  Love and gratitude to neurodivergent allies and advocates!
 
 [@asd1certified #TheyThem #AutisticPride #BiPride #EnbyPride #NordicPride](https://twitter.com/asd1certified 'Certified Autistic on Twitter')
+
+[@thegurumojo #gurumojo #ActuallyAutistic #CloudComputing #DigitalMentor #EventPipeline #NeurodivergentAdvocacy](https://twitter.com/thegurumojo 'Neurodivergent Advocacy on Twitter')
+
+[![Support me on Ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/gurumojo)
 
