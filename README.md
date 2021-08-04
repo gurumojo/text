@@ -8,4 +8,5 @@ markdown
 --------
 
 * [neurodiversity](./neurodiversity/)
+* [résumé](./résumé/)
 

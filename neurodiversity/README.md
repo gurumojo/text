@@ -1,8 +1,9 @@
 Neurodiversity
 ==============
 
-Normal variation in the human genome affecting any or all mental functions
-including but not limited to attention, emotional regulation, learning, etc.
+[Normal variation in the human genome](https://www.diversitystyleguide.com/glossary/neurodiversity/)
+affecting any or all mental functions including but not limited to attention,
+emotional regulation, learning, sensory processing, etc.
 
 
 Pathologisation
@@ -10,11 +11,13 @@ Pathologisation
 
 Sociologist Judy Singer rejected the notion of autism as a disability when she
 coined the term, instead favoring a perspective embracing different ways brains
-process information. As this important shift in thinking has spread around the
+process information.  As this important shift in thinking has spread around the
 world it undercuts medical industry specific framing of how people are disabled
-and supports a model which defines disability in a social context (e.g.
-[ontological negation](https://twitter.com/alexhaagaard/status/1402089497123344387)
-is the actual goal of much of the current misguided effort in autism advocacy).
+and supports a model which defines disability in a social context where work is
+required of abled people to achieve inclusion and equitable treatment for all.
+[Ontological negation](https://twitter.com/alexhaagaard/status/1402089497123344387),
+unfortunately for neurodivergents, is the actual goal of much of the current
+misguided effort in autism advocacy as well as the politics of medicine.
 
 
 Resolution
@@ -26,13 +29,16 @@ for the entire bedraggled history of oppression and misanthropy over the roughly
 say, many fitting this diagnosis prefer to look upon it as an identity as
 opposed to a disorder or a disease.  Many of those same people share similar
 experiences of being othered and shouted over when it came time to decide how
-they were going to access aide.  Many of them were in fact tortured, denied any
-agency or the basic human right of communication.  Providing accomodations is
-reported so often as too onerous for allistic people (if it is considered at
-all, and especially if one were lucky enough to have access to valid diagnostic
-resources so often denied to anyone except young white boys).  Parents' selfish
-suffering over imagined lost possibilities for the neurotypical children they
-desired the only possible focus when we consider mounting cases of filicide.
+they were going to access aide or describe their own unique needs.  Many of them
+were in fact tortured, denied any agency or the basic human right of
+communication.  Parents' self-centered suffering over imagined lost
+possibilities for the neurotypical children they desired is the only possible
+focus when we consider mounting cases of filicide.  For those surviving
+childhood, provisions for accomodation are reported so often as too onerous for
+allistic people (if it is considered at all).  If one were lucky enough to
+obtain access to valid diagnostic resources so often denied to anyone except
+young white boys, they would still have to battle against incessant claims of
+favoritism or direct manipulation via gaslighting and tone policing.
 
 
 Discussion
@@ -126,14 +132,16 @@ to the experiences of Black people, one cannot simply watch and learn about
 autistic experience; one must have it described authentically via open
 communication directly from participants.  I say this as one newly rediscovered
 after 44 trips around the nearest star.  Sorting out all the gaslighting and
-masking from authentic experience is wearying effort.  I could not have
-metamorphosed buffered from daily demands had it not been for the support of my
-partner allowing time to break down safely after my support of repeated family
-tragedies.  Love and gratitude to neurodivergent allies and advocates!
+masking from authentic experience has been wearying effort.  I could not have
+metamorphosed buffered from daily demands had it not been for the access to
+resources granted by white privelege allowing time to break down safely after my
+own support of repeated family tragedies in recent years compounded with nearly
+constant gaslighting in professional settings.  I maintain a grateful view of
+neurodivergent allies and advocates!
 
 [@asd1certified #TheyThem #AutisticPride #BiPride #EnbyPride #NordicPride](https://twitter.com/asd1certified 'Certified Autistic on Twitter')
 
 [@thegurumojo #gurumojo #ActuallyAutistic #CloudComputing #DigitalMentor #EventPipeline #NeurodivergentAdvocacy](https://twitter.com/thegurumojo 'Neurodivergent Advocacy on Twitter')
 
-[![Support me on Ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/gurumojo)
+[![Support me on Ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/gurumojo 'Buy me a coffee?')
 

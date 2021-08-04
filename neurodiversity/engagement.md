@@ -40,18 +40,19 @@ comprised the membership of juggernauts shipping value biweekly.
 
 Surely, I'm exaggerating...?!  No, and I will not accept further gaslighting.
 
-One case in point was the wide distribution encouraged after a developer on my
-sprint team, having obviously mistaken some communication failure as my personal
-deficit, sent out an article disparaging "expert beginners" as unknowing
-immitators then repeatedly had loud conversation near me about how some people
-were clueless to their own imposter behavior....  Nevermind that most of my
-clarifying questions were overridden as though I simply hadn't done my homework
-the very moment any teammate's "brilliant solution" had any weakness exposed.
-He seemed certain we were all fighting over supremacy vs. clawing out a spare
-living by leaving everything one has on the playing field for the benefit of the
-whole team.  He spoke as though we should all have read from the same page and
-come to the same conclusions, his blindness to his own neurotypical white
-privilege was truly phenomenal, and the recruitment efforts were dizzying!
+One case in point was the wide distribution encouraged by management after a
+developer on my sprint team, having obviously mistaken some communication
+failure as my personal deficit, sent out an article disparaging "expert
+beginners" as unknowing immitators then repeatedly had loud conversation near me
+about how some people were clueless to their own imposter behavior....
+Nevermind that most of my clarifying questions were overridden as though I
+simply hadn't done my homework the very moment any teammate's "brilliant
+solution" had any weakness exposed.  He seemed certain we were all fighting over
+supremacy vs. clawing out a spare living by leaving everything one has on the
+playing field for the benefit of the whole team.  He spoke as though we should
+all have read from the same page and come to the same conclusions, his blindness
+to his own neurotypical white privilege was truly phenomenal, and the
+recruitment efforts were dizzying!
 
 These teams only built more efficient ways to extract value from many more
 people for the benefit of ever fewer.  I was fought at every single step when I
@@ -111,7 +112,7 @@ define activism against bias as my primary objective.
 Truly unique perspective, not to mention professionally accomplished, now
 accepting offers.
 
-[![Support me on Ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/gurumojo)
+[![Support me on Ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/gurumojo 'Buy me a coffee?')
 
 
 I'm Neurodivergent, Hire Me!
