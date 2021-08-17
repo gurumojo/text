@@ -4,9 +4,12 @@ Autistic Burnout
 
 An impactful reminder that I'm not in charge
 
+
 [Lacking Agency](./agency.md 'Previous')
--- [Neurodiversity](./README.md 'Main')
--- [Emerging Activism](./activism.md 'Next')
+⇜
+[Neurodiversity](./README.md 'Main')
+⇝
+[Emerging Activism](./activism.md 'Next')
 
 
 Loss of Control
@@ -26,26 +29,27 @@ of inevitable job changes in my field (I too would prefer stable long term
 funding and have actually transitioned less often than peers throughout my
 career).  I count only a single reporting manager who fostered my growth in any
 mutually acknowledged way over more than two decades spent actively seeking
-mentorship.  All others were shibboleth holders pushing their own agenda while
-ignoring and demanding ever more from reports.  Frankly speaking, anyone asking
-a team member to "socialize information" among the team is enforcing ableism.
-Day by day, I witness more people abdicate their basic human responsibility in
-similar ways. The more of it I see, largely with the help of amazing activist
-communities on social media, the more I feel compelled to scream into the void
-lest I ruffle any feathers with my "aggression" (e.g. overwhelming distress).
+mentorship.  All others were gatekeepers, [shibboleth](./glossary.md#shibboleth)
+holders, pushing their own agenda while ignoring and demanding ever more from
+reports.  Frankly speaking, anyone asking a team member to "socialize
+information" among the team is enforcing ableism.  Day by day, I witness more
+people abdicate their basic human responsibility in similar ways. The more of it
+I see, largely with the help of amazing activist communities on social media,
+the more I feel compelled to scream into the void lest I ruffle any feathers
+with my "aggression" (e.g. overwhelming distress).
 
 Over the late 2010s I came to self-identify as probably, most likely, don't
 want to do anything like appropriate, autistic.  By the time I fumbled through
 enough conversations intended to open conversation and discovery taken as
-outright rage filled tirades, which admittedly I'm owning as someone who gets
-shut down more often than having their queries answered by supportive and open
-minded information seekers ready to collaborate, I was forced into choosing
-between subterfuge or suffering silently.  By the time solidarity with the
-#BlackLivesMatter movement landed undeniably worldwide during a 2020 northern-
-hemispheric summer filled with protest all was laid bare in the hate-feuled
-underpinnings of this failed social experiment once known as America the Great
-and silence for a white/male/cis/straight passing body stopped being an option.
-With this knowledge, silence is violence.
+outright rage filled tirades, I was forced into choosing between subterfuge or
+suffering silently.  I own this as someone who gets shut down more often than
+having their queries answered by supportive and open minded information seekers
+ready to collaborate.  Once solidarity with the #BlackLivesMatter movement
+landed undeniably worldwide during a 2020 northern-hemispheric summer filled
+with protest all was laid bare.  The hate-feuled underpinnings of this failed
+social experiment once known as America the Great demands silence from anyone
+who passes as a white/male/cis/straight person.  With this knowledge, silence
+is violence.
 
 For some reason, literally asking for medical leave and help sorting out
 obvious imbalance in perceptions and expectations, wasn't acceptable.  The
@@ -55,7 +59,7 @@ Innovation Force leadership at a major health insurance provider were paltry
 examples of what we could have built had emphasis been placed on intersectional
 inclusion over cross-departmental intra-company leverage.  I blew my top upon
 learning directly from HR leadership that the (3rd in a row) manager to whom I'd
-escalated handfuls of unanswered concerns and complaints never once forwarded or
+reported handfuls of unanswered concerns and complaints never once forwarded or
 investigated pleas for help resolving ongoing harassment.  Only my use of
 anonymous tip lines provoked any positive change during my tenure there.
 
@@ -64,22 +68,20 @@ great opportunity with a booming subcontractor in federal health care web
 applications months later.  Their position was that both of the times they
 provided requested accomodations they were going above and beyond the call of
 duty.  My reminder that some accomodations require continual effort and that my
-recently confirmed diagnosis (paid for out of pocket, along with all but 6 hours
-of counseling per contract year, because health benefits often don't include
-psychological aide for those lucky enough to have secured a similar level of
-access) and my right to claim effort due from my employer pending, especially
-given that they had done nothing at all in terms of neurodiversity planning or
-engagement until I introduced the ideas of employee resource groups and internal
-advocacy, was not taken well.  I ended up resigning from that job on two
-separate occasions with a total of three months dedicated to sisyphean struggle,
-ultimately discovering myself enmeshed within a terrible burnout without a
-single ally available for verbal ventilation including rough language and what
-I've been told oh so many times is too much volume (despite just last month
-receiving exemplary audiogram findings after the mild torture that was a full
-hearing test by myself inside a sound isolation booth).  The mere fact that I've
-been unable to effectively script these conversations and the only people near
-are mixed up in my trauma leaves me little option but bombastic presentation
-until I've wrestled with the cognitive dissonance long enough to start gleaning
+recently confirmed diagnosis secured my right to claim effort due was not taken
+well.  Cries of favoritism resounded.  They had done nothing at all in terms of
+neurodiversity planning or engagement until I introduced the ideas of employee
+resource groups and internal advocacy and support of marginalized groups.  What
+they demanded was full time work toward at least two separate sets of roles and
+responsibilities simultaneously; as long as I delivered as much code as peers
+they would "let me" continue.  I ended up resigning from that job on two
+separate occasions with a total of three months dedicated to sisyphean struggle.
+
+Discovering myself enmeshed within a terrible burnout without a single ally
+available for verbal ventilation was terrifying.  The mere fact that I've been
+unable to effectively script new conversations and the only people near are
+mixed up in my trauma leaves me little option but bombastic presentation until
+I've wrestled with the cognitive dissonance long enough to start gleaning
 anything of enduring value from the rubble.
 
 As for what this phenomenon, autistic burnout, looks like when manifest...?  Do
@@ -91,7 +93,7 @@ coffee, and subscribe via whatever links they provide to acknowledge that you
 are learning from entrepeneurs and activists who strive daily against white
 privilege, bigotry, and insolence just to meet basic needs.  The force
 multiplier in facing multiple fronts of marginalization is poorly recognized,
-and statistics for that too, are only a search form away....
+and statistics for that too, are only a search form submission away....
 
 
 Taking Control
@@ -115,19 +117,19 @@ It provides insight from marginalized people who have too often been ignored.
 
 Any time I made the mistake of speaking openly about my discomfort navigating
 bias via social dynamics or new arrivals ruining stable working relationships
-(almost exclusively because an overpaid and disconnected executive was bored by
-our misunderstood pace of progress and decided adding headcount would solve
-whatever problem there remained for his people to work out on their own, you
-know ... as a personal or career growth exercise, right?) I was immediately
-entrenched in defense of my own behavior instead of unlocking access to much
-needed counsel and support.  Emotional flashbacks lock me into trauma responses
-after cascades of being cornered and blamed lead to inevitable (and externally
-inexplicable it would seem) implosion.
+I was immediately entrenched in defense of my own behavior instead of unlocking
+access to much needed counsel and support.  Emotional flashbacks lock me into
+trauma responses after cascades of being cornered and blamed lead to inevitable
+implosion.  This yet to be acknowledged torture was almost exclusively because
+an overpaid and disconnected executive was bored by our misunderstood pace of
+progress and decided adding headcount would solve whatever problem there
+remained for his people to work out on their own.  You know ... as a personal or
+career growth exercise, right?
 
-It has been messy work.  Imagine trying to overcome these hurdles over and over
+It has been messy work.  Imagine trying to overcome these hurdles time and again
 for decades without knowing anything about even the most basic essentials for
-autistic success, simply because I had no way to know without external advocacy
-or surviving enough failure to learn things the hard way....
+autistic success....  Simply because I had no way to know without external
+advocacy or surviving enough failure to learn things the hard way!
 
 The first time I came out to an employer as autistic the immediate reaction was
 a sharp intake of breath and expression of remorse.  I now know better than to

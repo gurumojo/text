@@ -4,9 +4,12 @@ Ordered Identity
 
 Identification is personally rooted and wholly owned by holders of intent
 
+
 [Intersectionality](./intersectionality.md 'Previous')
--- [Neurodiversity](./README.md 'Main')
--- [Lacking Agency](./agency.md 'Next')
+⇜
+[Neurodiversity](./README.md 'Main')
+⇝
+[Lacking Agency](./agency.md 'Next')
 
 
 Personal vs. Cultural
@@ -44,8 +47,9 @@ Personal Labels
 
 Gendered pronouns simply are not appropriately applied in my case (e.g.
 they/them is actually me, but he/him is allowed as a social compromise given my
-assigned gender at birth -- I simply don't have the spoons for defending my turf
-against TERFs at this point in my story).
+assigned gender at birth -- I simply [don't have any spoons](./glossary.md#spoons)
+for defending my turf against [TERFs](./glossary.md#TERF) at this point in my
+story).
 
 Person first language is not welcome when used to describe me (e.g. I am
 autistic vs. I "have autism").
@@ -58,7 +62,7 @@ behaving as a very good ally....
 Origin Story
 ------------
 
-The first identity I aligned with was Nordic.  Mother's family Norweigian and
+The first identity I aligned with was Nordic.  Mother's family Norwegian and
 Swedish, Father's Finnish.  I was born into it, but very little tradition
 remained beyond a few foods and words and jokes.  In secret I read the eddas
 and cast runes seeking personal truths.  A longing to understand a deeper felt
@@ -66,8 +70,8 @@ but unspoken connection persisted, mostly dormant.  I never did let go of the
 desire to be able to braid a full and fearsome beard....
 
 Alas, bigots and zealots use ancient symbols for childish conceits, making what
-remains of that culture from my perspective largely inaccessible due to attached
-bias and stigma.
+remains of that culture, from my perspective, largely inaccessible due to
+attached bias and stigma.
 
 
 To Bi, or Not to Bi
@@ -82,10 +86,11 @@ schools ...?  Well, bi beg to differ!
 After processing the traumatization that constituted the bulk of my junior high
 school experience, I explored myself as a budding flower, replete with both male
 and female parts, around the same time as my peers but I felt entirely rushed
-into it.  As with any autistic autodidactic approach to learning I ravenously
-consumed everything I could find which related, AKA not much beyond hetero-
-normative brainwashing or 'zines all in on the G part of LGBT+.  Bi erasure
-loomed with unsettling foreshadowing.
+into it.  As with any autistic [autodidactic](./glossary.md#autodidact) approach
+to learning, I ravenously consumed everything I could find which related, AKA
+not much beyond hetero-normative brainwashing or ['zines](./glossary.md#zine)
+all in on the G part of LGBT+.  [Bi erasure](./glossary.md#erasure) loomed with
+unsettling foreshadowing.
 
 Adventure buddies at the time would rendezvous at tea and coffee houses,
 boutique book and toy stores, really anywhere that would patiently host our
@@ -94,11 +99,11 @@ occassion I landed on the Kinsey Report, an angel chorus may have been singing.
 I don't know, I got pulled into a tunnel.  I was simultaneously and immediately
 terrified of being seen with it, laser focused on unearthing its secrets, and
 bodily thrilled at the potential lessons lurking within this tome so I wouldn't
-have heard them anyway.  I carried that book with me everywhere while I worked
-through its pages, dictionary and travel thesaurus at the ready.  Enthralled by
-the themes and variations on what moved people into action, I envisioned myself
-straddling the midline of the scale and became eager to discuss, but how!?!
-With whom!?!?
+have heard the heavenly harmony anyway.  I carried that book with me everywhere
+while I worked through its pages, dictionary and travel thesaurus at the ready.
+Enthralled by the themes and variations on what moved people into action, I
+envisioned myself straddling the midline of the scale and became eager to
+discuss, but how!?!  With whom!?!?
 
 And so we arrive at Pride:  rainbows, leather, judgement, and AIDS discourse.
 I still didn't know any mentors with lived experience.  My undiagnosed and
@@ -132,7 +137,7 @@ tanned legs look SO good!" and I lock up near total shutdown searching for a way
 to say NO without losing my best, and so far only, chance at any level of
 personal freedom over the next 3 months....  There were a handful of times
 while swapping tools from the trailer in preparation for the next day's
-itenerary that he offered up the use of his shower.  Once he even called me back
+itinerary that he offered up the use of his shower.  Once he even called me back
 to drive home my need to shower before we attended teen night at the LGBT
 community center which he facilitated.  He "couldn't hear my answer" so I walked
 back to repeat myself again directly through the open door only to discover his
@@ -174,10 +179,10 @@ those called disease.
 I also learned what it is to really sing in harmony and reverberate with my
 whole body in mighty unison under precise direction.  I attended master classes
 with internationally touring jazz singers, played the part of a haunted statue
-in an opera and thumped out bass lines in an a capella group between concert
-choir sets.  It was there doing what I most loved that I first experienced
-autistic burnout without recognizing it.  Nobody in my life used the A word
-beyond passing curiosity, so how could I?
+in an opera and thumped out bass lines in an [a cappella](./glossary.md#a-capella)
+group between concert choir sets.  It was there, doing what I most loved, that I
+first experienced autistic burnout without recognizing it.  Nobody in my life
+used the A word beyond passing curiosity, so how could I?
 
 Go Bears!
 
@@ -203,10 +208,9 @@ the first apartment I had totally on my own just weren't cutting it for me.  I
 told myself it was for the science.  I can still see details of that room when
 my mind wanders.  The part that really and truly got me down that night...?
 He was so devoid of love.  I went more to spy on possible futures than I ever
-felt compelled by using drugs or sharing his life, and after settling my
-freebase account and a bit of polite conversation I walked out almost as
-shattered as that last glimpse of his eyes told me he was over losing a new
-friend.
+felt compelled by using drugs or sharing his life.  After settling my freebase
+account and a bit of polite conversation I walked out almost as shattered as
+that last glimpse of his eyes told me he was over losing a new friend.
 
 I could still become him according to a recent psychological profile.
 
@@ -239,7 +243,7 @@ realization that I wasn't offended at the attacks on some non-existent manhood
 nearly as much as the ever-present assumption I ever projected that identity
 into the world in the first place.
 
-I've got the legs for dresses and heels, even college boys have hurled catcalls
+I've got the legs for dresses and heels.  Even college boys have hurled catcalls
 before facial hair came into focus and they threatened violence.  I also clean
 up and fill out a tux pretty well.  So, why not both, or neither?
 

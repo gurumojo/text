@@ -4,9 +4,12 @@ Lacking Agency
 
 Four decades of gaslighting doesn't wash off easily
 
+
 [Ordered Identity](./identity.md 'Previous')
--- [Neurodiversity](./README.md 'Main')
--- [Autistic Burnout](./burnout.md  'Next')
+⇜
+[Neurodiversity](./README.md 'Main')
+⇝
+[Autistic Burnout](./burnout.md  'Next')
 
 
 Reign of Shame
@@ -44,30 +47,32 @@ denounce any desire for women to maintain the relationship, or maintain my out
 bi status without him.  It was a cold and lonely walk of shame that morning.
 
 I moved across the country, to a place I had zero desire to live, in support of
-a wife who never did obtain that masters degree during our 7 year marriage, the
-one I solely worked to support while awaiting my chance to focus on studies
-supported by employment secured with her fancy new credentials.
+a wife who never did obtain that masters degree during our 7 year marriage.  I
+solely worked to support the household while awaiting my chance to focus on
+studies supported by employment secured with her fancy new credentials.
 
 I found out job benefits only provide a mental health starter pack of a half
-dozen hour long sessions with a counselor, when they provided any at all. And I
+dozen hour long sessions with a counselor, when they provided any at all.  I
 lost jobs because nobody was willing to examine my distress while I was bringing
 it to them in safe and healthy ways, the ways their orientations say to do it.
 
 I helped my most recent partner move and buy her first house and supported her
 through the difficulties of late lives and deaths of both her parents.  It took
 6 months to get her to read even a single book about the topic that has upended
-my entire outlook on life.  She disowned her sisters over lack of support
-before, but now she communicates with them more often than I.  She cut me out of
-most of her daily life without any explanation, yet still takes any benefit I
-offer, begging patience as she works stuff out on her own.
+my entire outlook on life.  She disowned her sisters over lack of support, but
+now she communicates with them more often than with me.  She cut me out of most
+of her daily life without any explanation, yet still takes any benefit I offer,
+begging patience as she works stuff out on her own.
 
 After years of loose affiliation with intellectual and developmental disability
 workers and volunteering with some of their clients I began to identify as
-autistic, and I lost jobs because nobody was willing to provide accomodations.
+autistic.  I lost jobs because nobody was willing to provide accomodations.
 Even after submitting myself to official diagnosis and paying out of pocket for
-those and related psychiatric and counselling sessions, the best I was able to
+those and related psychiatric and counseling sessions, the best I was able to
 garner with full disclosure was denial due to favoritism, except on the two
-isolated occasions they vaunted.
+isolated occasions they [vaunted](./glossary.md#vaunt) while completely missing
+the lesson that these were to be process changes (for every time the issue came
+up during a standard work day interaction).
 
 
 Ill Fit
@@ -81,18 +86,29 @@ care physicians ignored my pleas for help resolving pain.  Most recently I was
 railroaded with two improper psychiatric diagnoses by an internist with zero
 psychiatric or psychological credentials supporting their medical record notes.
 
-My retina specialist called me aggressive as she redirected and ignored direct
-questions, forcing her agenda despite clear up front messaging about my intent
-for my first visit in over 5 years (which every single staffer pointed out).  I
-was obviously suffering sensory overload, yet *I* was the aggressor.  She got
-another woman to lurk in the doorway without introduction and corroborate her
-position, more notes.
+My retina specialist called me aggressive just after updating, and presumably
+reading the most recent infammatory entry in my medical record.  She redirected
+and ignored direct questions, forcing her agenda despite clear up front
+messaging about my intent for my first visit in over 5 years (which every single
+staffer pointed out).  I was obviously suffering sensory overload, yet *I* was
+eagerly labeled the aggressor.  When challenged, she could not explain how I
+had behaved aggressively, she merely repeated her label attribution by
+exclaiming "You're being aggressive!".  She signalled another staffer to lurk in
+the doorway without introduction and corroborate her position; more notes
+supporting foregone conclusions.
 
 Carceral systems (not limited to criminal justice, medical complex, psychology)
 have always put me off with their transparent duplicity.  The whole mess reeks
-of "do as I say not as I do"-ness.  We are beholden to those very systems for
-any chance at relief from the very problems that any providing those systems
-proliferate during their wanton manipulation of our autonomy or environment.
+of "do as I say not as I do".  We are beholden to those very systems for any
+chance at relief from the very problems that any providing them proliferate
+during their wanton manipulation of our autonomy or environment.  Compliance
+does not equate to better treatment.  It makes it easier for providers to
+continue rushing past real and complex problems with ready-made yet ill-fit
+solutions to symptoms.  It makes it easier to describe one as a monster when
+they cannot comply.  Addiction, poor diet, lacking exercise, houselessness, etc.
+are not the problems they are made out to be in popular media.  They are the
+symptoms of oppression.  These systems were built for the benefit of few and
+dominion over the rest.
 
 I see no way beyond this for anyone outside of solidarity in opposition.
 
