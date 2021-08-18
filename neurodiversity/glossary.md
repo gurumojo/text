@@ -9,126 +9,199 @@ Glossary of Terms
 
 [Neurodiversity](./README.md 'Main')
 
+
+Definitions and Examples
+------------------------
+
 <dl>
 
-<dt>AAC</dt>
+<dt id='AAC'>AAC</dt>
 <dd>an acronym for Augmentative and Alternative Communication</dd>
 <dd>see also: https://aaccommunity.net/ccc/aac-aac/</dd>
 
-<dt>a cappella</dt>
+<dt id='a-cappella'>a cappella</dt>
 <dd>from Italian musical scores meaning: in the manner of the chapel</dd>
 <dd>to sing without instrumental accompaniment</dd>
 
-<dt>agency</dt>
-<dd>a means of exerting power or influence; expression of free will</dd>
+<dt id='agency'>agency</dt>
+<dd>a means of exerting power or influence</dd>
+<dd>uninhibited expression of free will</dd>
 
-<dt>allistic</dt>
+<dt id='allistic'>allistic</dt>
 <dd>one who possesses what is commonly referred to as normal neurology</dd>
-<dd>one who is not autistic</dd>
+<dd>the antonym of <a href='#autistic'>autistic</a></dd>
 
-<dt>allopathic</dt>
+<dt id='allopathic'>allopathic</dt>
 <dd>medical practice where symptoms of disease are treated using drugs, radiation, or surgery</dd>
 
-<dt>ally</dt>
+<dt id='ally'>ally</dt>
 <dd>one recognized as working for the benefit of a marginalized person or group</dd>
+<dd>a title conferred by members of a marginalized group upon a non-member</dd>
 
-<dt>autistic</dt>
+<dt id='autistic'>autistic</dt>
 <dd>one who possesses what is commonly referred to as atypical neurology</dd>
 <dd>one having a social disability arising from differences in perception</dd>
+<dd>the antonym of <a href='#allistic'>allistic</a></dd>
 
-<dt>autodidact</dt>
+<dt id='autodidact'>autodidact</dt>
 <dd>one who favors education without the guidance of masters or institutions</dd>
 <dd>one who studies new topics on their own in a deep and comprehensive manner</dd>
 
-<dt>buffer</dt>
-<dd>to lessen or absorb the shock or overwhelm of an impact</dd>
-<dd>see also: mitigate</dd>
+<dt id='bisexual'>bisexual</dt>
+<dd>one with romantic attraction, sexual attraction, or sexual behavior toward more than one gender</dd>
+<dd>people frequently subjected to bi <a href='#erasure'>erasure</a></dd>
 
-<dt>edda</dt>
+<dt id='buffer'>buffer</dt>
+<dd>to lessen or absorb the shock or overwhelm of an impact</dd>
+<dd>see also: <a href='#mitigate'>mitigate</a></dd>
+
+<dt id='cisgender'>cisgender</dt>
+<dd>one whose gender identity matches their sex assigned at birth</dd>
+<dd>the antonym of <a href='#transgender'>transgender</a></dd>
+
+<dt id='edda'>edda</dt>
 <dd>ancient oral history of nordic countries</dd>
 <dd>poetry and prose detailing heroic exploits and lessons</dd>
 
-<dt>erasure</dt>
+<dt id='erasure'>erasure</dt>
 <dd>an act or instance of erasing</dd>
-<dd>in re bisexuality: to ignore, remove, falsify, or re-explain historical evidence</dd>
+<dd>in re <a href='#bisexual'>bisexuality</a>: to ignore, remove, falsify, or re-explain historical evidence</dd>
 
-<dt>fraught</dt>
+<dt id='fraught'>fraught</dt>
 <dd>something marked by causing distress or emotional overwhelm</dd>
+<dd>overwhelming influence of a specified type (e.g. fraught with danger)</dd>
 
-<dt>gaslighting</dt>
+<dt id='gaslighting'>gaslighting</dt>
 <dd>manipulation in which targets question their own reality, memory, or perception</dd>
+<dd>an abusive social control tactic</dd>
 
-<dt>grok</dt>
+<dt id='grok'>grok</dt>
 <dd>to understand profoundly and intuitively</dd>
 <dd>to empathize or communicate sympathetically</dd>
 
-<dt>magnitude</dt>
+<dt id='hashtag'>hashtag</dt>
+<dd>a metadata label of unbroken text prefaced by a hash symbol</dd>
+<dd>specifiers useful on social media for locating interesting content</dd>
+<dd>best created as #PascalCaseStrings to maximize accessibility and readability</dd>
+<dd>examples:</dd>
+</dl>
+
+[#ADHDAutism](https://twitter.com/hashtag/ADHDAutism)
+[#ADHD](https://twitter.com/hashtag/ADHD)
+[#ActuallyAutistic](https://twitter.com/hashtag/ActuallyAutistic)
+[#AskingADHD](https://twitter.com/hashtag/AskingADHD)
+[#AskingAutistics](https://twitter.com/hashtag/AskingAutistics)
+[#AskingBisexuals](https://twitter.com/hashtag/AskingBisexuals)
+[#AskingDisabled](https://twitter.com/hashtag/AskingDisabled)
+[#AskingEnbys](https://twitter.com/hashtag/AskingEnbys)
+[#AutisticAF](https://twitter.com/hashtag/AutisticAF)
+[#AutisticPride](https://twitter.com/hashtag/AutisticPride)
+[#BiPride](https://twitter.com/hashtag/BiPride)
+[#BlackLivesMatter](https://twitter.com/hashtag/BlackLivesMatter)
+[#CPTSD](https://twitter.com/hashtag/CPTSD)
+[#CloudComputing](https://twitter.com/hashtag/CloudComputing)
+[#CommunicationFirst](https://twitter.com/hashtag/CommunicationFirst)
+[#DigitalMentor](https://twitter.com/hashtag/DigitalMentor)
+[#EnbyPride](https://twitter.com/hashtag/EnbyPride)
+[#EventPipeline](https://twitter.com/hashtag/EventPipeline)
+[#IStandWithNonspeakers](https://twitter.com/hashtag/IStandWithNonspeakers)
+[#NEISVoid](https://twitter.com/hashtag/NEISVoid)
+[#NeurodivergentAdvocacy](https://twitter.com/hashtag/NeurodivergentAdvocacy)
+[#NeurodiverseSquad](https://twitter.com/hashtag/NeurodiverseSquad)
+[#NordicPride](https://twitter.com/hashtag/NordicPride)
+[#TheyThemTheirs](https://twitter.com/hashtag/TheyThemTheirs)
+[#TheyThem](https://twitter.com/hashtag/TheyThem)
+[#TransLivesMatter](https://twitter.com/hashtag/TransLivesMatter)
+[#WeirdPride](https://twitter.com/hashtag/WeirdPride)
+
+<dl>
+
+<dt id='hyperfocus'>hyperfocus</dt>
+<dd>an intense form of mental concentration or visualization that focuses consciousness on a subject, topic, or task</dd>
+<dd>unusual depth of attention sometimes mistaken for obsessive behavior or selective listening</dd>
+
+<dt id='magnitude'>magnitude</dt>
 <dd>a property which determines whether the object is larger or smaller than other objects of the same kind</dd>
 <dd>an order of magnitude is a common reference to a 10X magnification of size</dd>
 
-<dt>marginalize</dt>
+<dt id='marginalize'>marginalize</dt>
 <dd>to relegate one to unimportant or powerless status within a society or group</dd>
 
-<dt>mitigate</dt>
+<dt id='masculine'>masculine</dt>
+<dd>a set of attributes, behaviors, and roles associated with male gender expression</dd>
+
+<dt id='mitigate'>mitigate</dt>
 <dd>the reduction of something harmful or the reduction of its harmful effects</dd>
 
-<dt>neurodivergent</dt>
+<dt id='neurodivergent'>neurodivergent</dt>
 <dd>someone experienced with atypical neurological development</dd>
 
-<dt>neurodiversity</dt>
+<dt id='neurodiversity'>neurodiversity</dt>
 <dd>standard variation in the human genome affecting neurologic function</dd>
 
-<dt>nordic</dt>
+<dt id='nordic'>nordic</dt>
 <dd>a geographical and cultural region in Northern Europe and the North Atlantic</dd>
 <dd>includes the sovereign states of Denmark, Norway, Sweden, Finland, and Iceland, as well as the autonomous countries of the Faroe Islands and Greenland</dd>
 
-<dt>othered</dt>
+<dt id='othered'>othered</dt>
 <dd>to describe as different or deficient when compared to normalized examples of a class</dd>
-<dd>see also: marginalize</dd>
+<dd>see also: <a href='#marginalize'>marginalize</a></dd>
 
-<dt>pathologize</dt>
+<dt id='passing'>passing</dt>
+<dd>a person identified as a member of one group is perceived as a member of another</dd>
+
+<dt id='pathologize'>pathologize</dt>
 <dd>to define something based on perceived deficits as opposed to characteristic features</dd>
 
-<dt>PhD</dt>
+<dt id='PhD'>PhD</dt>
 <dd>an abbreviation for the Latin "Philosophiae Doctor"; a doctor of philosophy</dd>
+<dd>the most elevated degree conferred in a given topic area</dd>
 
-<dt>queer</dt>
+<dt id='queer'>queer</dt>
 <dd>differing from what is typically considered usual or normal; odd, strange, weird</dd>
 <dd>an umbrella term for sexual and gender minorities; not heterosexual, not cisgender</dd>
 
-<dt>reclusion</dt>
+<dt id='reclusion'>reclusion</dt>
 <dd>a state of retirement from the world; isolation, seclusion</dd>
 
-<dt>rune</dt>
+<dt id='rune'>rune</dt>
 <dd>runic alphabet symbol</dd>
 <dd>used to write various Germanic languages before the adoption of the Latin alphabet</dd>
 
-<dt>shibboleth</dt>
+<dt id='shibboleth'>shibboleth</dt>
 <dd>any identifying word, manner of speaking, or behavior that shows someone to be part of a particular group</dd>
 <dd>a type of authentication system with a shared secret</dd>
 
-<dt>spoons</dt>
+<dt id='spoons'>spoons</dt>
 <dd>from spoon theory: a measure of personal capacity for completing given tasks</dd>
 <dd>variable impacted by dependencies on environment, health, social comfort, etc.</dd>
 <dd>see also: https://butyoudontlooksick.com/articles/written-by-christine/the-spoon-theory/</dd>
 <dd>see also: https://jenrose.com/fork-theory/</dd>
 
-<dt>TERF</dt>
+<dt id='TERF'>TERF</dt>
 <dd>an acronym for Trans Exclusionary Radical Feminist</dd>
 <dd>often cited as lesbians refusing to acknowledge trans women</dd>
 
-<dt>TLDR</dt>
+<dt id='TLDR'>TLDR</dt>
 <dd>an acronym for Too Long; Didn't Read</dd>
 <dd>an executive summary; a synopsis; often using punctuation as TL;DR</dd>
 
-<dt>vaunt</dt>
+<dt id='transgender'>transgender</dt>
+<dd>one whose gender identity does not match their sex assigned at birth</dd>
+<dd>the antonym of <a href='#cisgender'>cisgender</a></dd>
+
+<dt id='vaunt'>vaunt</dt>
 <dd>to participate in extravigantly positive or boastful speech or writing</dd>
 
-<dt>zine</dt>
+<dt id='white'>white</dt>
+<dd>a racialized classification of people; a skin color specifier</dd>
+<dd>generally used for people of European origin, the definition can vary depending on context, nationality, or point of view</dd>
+
+<dt id='zine'>zine</dt>
 <dd>short for magazine; a pulp comic or pamphlet; frequent use in counter-culture</dd>
 <dd>a small-circulation self-published work of original or appropriated texts</dd>
 
-<dt></dt>
+<dt id=''></dt>
 <dd></dd>
 
 </dl>

@@ -100,36 +100,13 @@ and it is also accurate and acceptable to refer to me as a
 [#enby](https://twitter.com/hashtag/enby)
 or one possessing [#gurumojo](https://twitter.com/hashtag/gurumojo).
 
-[#ADHDAutism](https://twitter.com/hashtag/ADHDAutism)
-[#ADHD](https://twitter.com/hashtag/ADHD)
-[#ActuallyAutistic](https://twitter.com/hashtag/ActuallyAutistic)
-[#AskingADHD](https://twitter.com/hashtag/AskingADHD)
-[#AskingAutistics](https://twitter.com/hashtag/AskingAutistics)
-[#AskingBisexuals](https://twitter.com/hashtag/AskingBisexuals)
-[#AskingDisabled](https://twitter.com/hashtag/AskingDisabled)
-[#AskingEnbys](https://twitter.com/hashtag/AskingEnbys)
-[#AutisticAF](https://twitter.com/hashtag/AutisticAF)
-[#AutisticPride](https://twitter.com/hashtag/AutisticPride)
-[#BiPride](https://twitter.com/hashtag/BiPride)
-[#BlackLivesMatter](https://twitter.com/hashtag/BlackLivesMatter)
-[#CPTSD](https://twitter.com/hashtag/CPTSD)
-[#CloudComputing](https://twitter.com/hashtag/CloudComputing)
-[#CommunicationFirst](https://twitter.com/hashtag/CommunicationFirst)
-[#DigitalMentor](https://twitter.com/hashtag/DigitalMentor)
-[#EnbyPride](https://twitter.com/hashtag/EnbyPride)
-[#EventPipeline](https://twitter.com/hashtag/EventPipeline)
-[#IStandWithNonspeakers](https://twitter.com/hashtag/IStandWithNonspeakers)
-[#NEISVoid](https://twitter.com/hashtag/NEISVoid)
-[#NeurodivergentAdvocacy](https://twitter.com/hashtag/NeurodivergentAdvocacy)
-[#NeurodiverseSquad](https://twitter.com/hashtag/NeurodiverseSquad)
-[#NordicPride](https://twitter.com/hashtag/NordicPride)
-[#TheyThemTheirs](https://twitter.com/hashtag/TheyThemTheirs)
-[#TheyThem](https://twitter.com/hashtag/TheyThem)
-[#TransLivesMatter](https://twitter.com/hashtag/TransLivesMatter)
-[#WeirdPride](https://twitter.com/hashtag/WeirdPride)
 
-I love learning from answers by community members monitoring these hashtags on
-social media.  Above all, to be considered an [ally](./glossary.md#ally) of
+Perspective
+-----------
+
+I love learning from answers by community members monitoring relevant
+[hashtags](./glossary.md#hashtag) on social media.  Above all, I have learned
+that in order to be considered an [ally](./glossary.md#ally) of
 [marginalized](./glossary.md#marginalize) people one must live and breathe
 "nothing about us without us" (nihil de nobis sine nobis) by honoring and
 promoting messages of lived experience over the tyranny of observation resulting
@@ -143,8 +120,8 @@ metamorphosed while buffered from daily demands had it not been for the access
 to resources granted by white privelege allowing time to break down safely after
 my own support of repeated family tragedies in recent years compounded with
 nearly constant [gaslighting](./glossary.md#gaslighting) in professional
-settings as well as at home.  I maintain a very grateful view of
-[neurodivergent](./glossary.md#neurodivergent) allies and advocates who have
+settings as well as at home.  I maintain a very grateful view of the many
+[neurodivergent](./glossary.md#neurodivergent) advocates and allies who have
 touched my life!
 
 [@asd1certified #TheyThem #AutisticPride #BiPride #EnbyPride #NordicPride](https://twitter.com/asd1certified 'Certified Autistic on Twitter')
