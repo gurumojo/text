@@ -23,6 +23,10 @@ Definitions and Examples
 <dd>from Italian musical scores meaning: in the manner of the chapel</dd>
 <dd>to sing without instrumental accompaniment</dd>
 
+<dt id='ableism'>ableism</dt>
+<dd>discrimination and social prejudice against people with disabilities</dd>
+<dd>defining people by their disabilities, inferior to the non-disabled</dd>
+
 <dt id='agency'>agency</dt>
 <dd>a means of exerting power or influence</dd>
 <dd>uninhibited expression of free will</dd>
@@ -61,7 +65,7 @@ Definitions and Examples
 
 <dt id='edda'>edda</dt>
 <dd>ancient oral history of nordic countries</dd>
-<dd>poetry and prose detailing heroic exploits and lessons</dd>
+<dd>poetry or prose detailing heroic exploits and lessons</dd>
 
 <dt id='erasure'>erasure</dt>
 <dd>an act or instance of erasing</dd>
@@ -139,6 +143,9 @@ Definitions and Examples
 <dt id='neurodiversity'>neurodiversity</dt>
 <dd>standard variation in the human genome affecting neurologic function</dd>
 
+<dt id='neurotypical'>neurotypical</dt>
+<dd>someone experienced with typical neurological development</dd>
+
 <dt id='nordic'>nordic</dt>
 <dd>a geographical and cultural region in Northern Europe and the North Atlantic</dd>
 <dd>includes the sovereign states of Denmark, Norway, Sweden, Finland, and Iceland, as well as the autonomous countries of the Faroe Islands and Greenland</dd>
@@ -167,6 +174,12 @@ Definitions and Examples
 <dt id='rune'>rune</dt>
 <dd>runic alphabet symbol</dd>
 <dd>used to write various Germanic languages before the adoption of the Latin alphabet</dd>
+
+<dt id='echolalia'>echolalia</dt>
+<dd>imitation of words, phrases, or noises that have been heard</dd>
+<dd>common in young children who are first learning to speak</dd>
+<dd>pathologized when witnessed without recognizing inherent communicative function</dd>
+<dd>communicative functions: turntaking, requesting, self-regulation, and rehearsal to aid comprehension</dd>
 
 <dt id='shibboleth'>shibboleth</dt>
 <dd>any identifying word, manner of speaking, or behavior that shows someone to be part of a particular group</dd>

@@ -15,20 +15,19 @@ Did the group being spoken about have representation?
 I Stand with Nonspeakers
 ------------------------
 
-[Nonspeaking autistics](./glossary.md#nonspeaker) have voices to promote in this
-struggle too.  Many of them have profound messages to share, but too often face
-limitations in lacking patience and understanding of [AAC](./glossary.md#AAC)
-(technology which restores agency and sharing of ideas to many previously denied
-the basic human right of communication).  The intersections of autistic
-populations cross all nations and skin colors and genders and socio-economic
-status.  People who identify with multiple marginalized groups should be
-centered at every opportunity.  Those who hate us have many different claims to
-their bigotry and malice but it usually just boils down to being different than
-their idealized impossible state.  Coming together to name and describe our
-experiences via common understanding sheds new light for all involved and holds
-the potential to change our collective futures based on wisdom gleaned from
-shared experience.  Organization and solidarity are essential in demanding equal
-rights and access.
+[Nonspeaking autistics](./glossary.md#nonspeaker) have voices to promote.
+Many of them have profound messages to share, but too often face limitations in
+lacking patience and understanding of [AAC](./glossary.md#AAC) (technology
+which restores agency and sharing of ideas to many previously denied the basic
+human right of communication).  The intersections of autistic populations cross
+all nations and skin colors and genders and socio-economic status.  People who
+identify with multiple marginalized groups should be centered at every
+opportunity.  Those who hate us have many different claims to their bigotry and
+malice but it usually just boils down to being different than their idealized
+impossible state.  Coming together to name and describe our experiences via
+common understanding sheds new light for all involved and holds the potential to
+change our collective futures based on wisdom gleaned from shared experience.
+Organization and solidarity are essential in demanding equal rights and access.
 
 Social disability is not determined by intelligence, capability, or level of
 effort.

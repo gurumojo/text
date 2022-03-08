@@ -18,8 +18,8 @@ Competition vs. Collaboration
 
 [A sad reality](https://www.kwch.com/2021/03/15/letter-to-employer-posted-on-linkedin-goes-viral/)
 showed a hand written plea for employment from a young autistic job seeker
-circulating on LinkedIn recently.  Did it go viral and capture multiple
-national network newsrooms because it was inspiration porn?  Or an inspired job
+circulating on LinkedIn in 2021.  Did it go viral and capture multiple national
+network newsrooms because it was inspiration porn?  Or an inspired job
 application?  You decide....  I know which one I've seen represented more often
 (and it isn't growing any savings accounts).
 
@@ -62,11 +62,9 @@ people for the benefit of ever fewer.  I was fought at every single step when I
 raised concerns over accessibility in either product or process, but I still
 found ways to build consensus and enact change within those teams while showing
 respect for team member needs as well as the mythical business user.  Every
-single time such organizing, driven by the very people providing the value
-leveraged by the business in its imprudent bids to control destiny, was
-recognized by the business it acted to eliminate a perceived threat rising up
-(e.g. the axe fell on my neck instead of any good ol' boy incompetents plainly
-exposed using objective qualitative measures).  When in doubt, kill an odd duck.
+single time such organizing was recognized by the business it acted to eliminate
+a perceived threat rising up (e.g. the axe fell on my neck instead of any good
+ol' boy incompetents plainly exposed using objective qualitative measures).
 
 The irony is those same teams had already documented improved outcomes via my
 advising toward inclusive practices by the time complaints of the onerous "extra
@@ -90,7 +88,8 @@ problematic behavior.  Any outbursts (surely the most common aspect these teams
 would describe of my behavior with revisionist histories being what they are...)
 were autistic reactions to people actually fighting to obscure meaning, to
 encode clever solutions (e.g. difficult to decipher) for their own amusement, to
-flout most well tested best practices and the [ADA](https://www.essentialaccessibility.com/blog/ada-guidelines)
+flout most well tested best practices and the
+[ADA](https://www.essentialaccessibility.com/blog/ada-guidelines)
 with every single protection it stands for regarding digital environments.
 
 Abuse of power, the bellweather of ensured neglect and exclusion, is something

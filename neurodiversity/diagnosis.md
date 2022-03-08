@@ -66,16 +66,17 @@ that my behavior and evaluation participants' recall presented as:
 The name of this condition was so lazily formed.  Much of what has repeatedly
 been pathologised by those without any lived experience amounts to harmless
 self soothing or communication gaps (and there are at least two sides to every
-exchange, so we need to keep it real and call out the allistic responsibility
-shared regarding these breakdowns).  While claiming overwhelmingly common
-threads in our outlook with respect to justice, agency, and empathy, the ways
-our environment and resulting behavior trends disable us do very little in the
-way of accurately describing a vast array of experiences and perspectives.  We
-have a different neuron wiring plan, no big whoop.  The left and right amygdala
-failed to connect in a typical way and found other pathways for sharing vital
-information within the brain.  Overly optimized systems, or those overtly tuned
-to a contrary purpose, tend to fail under such load and this has played out in
-tragic comedy as neurotypical reaction to pandemic life.
+exchange, so we need to keep it real and call out the [allistic](./glossary.md#allistic)
+responsibility shared regarding these breakdowns).  While claiming
+overwhelmingly common threads in our outlook with respect to justice, agency,
+and empathy, the ways our environment and resulting behavior trends disable us
+do very little in the way of accurately describing a vast array of experiences
+and perspectives.  We have a different neuron wiring plan, no big whoop.  The
+left and right amygdala failed to connect in a typical way and found other
+pathways for sharing vital information within the brain.  Overly optimized
+systems, or those overtly tuned to a contrary purpose, tend to fail under such
+load and this has played out in tragic comedy as neurotypical reaction to
+pandemic life.
 
 There are clusters of co-occurring conditions typically experienced by autistic
 people, but severity labels (apart from missing the mark entirely) are typically
@@ -90,19 +91,20 @@ embracing uncommon or undesirable ways of being.  Of course, to battle
 effectively against such odds one must be [armed with the knowledge of their own
 surrounding context](./test.md).
 
-Writ large by those dubbing themselves allies amidst gnashing of teeth at how
-much suffering *they* face at the hands of this so called monstrous calamity,
-pathologizing the most benign of behaviors in their suffering offspring while
-shouting over adults with lived experience who in chorus (using approaches
-ranging from gentle to bombastic) admonish them to adopt simple and effective
-behavioral changes of their own.  For something only diagnosed via behavioral
-indicators, we've allowed quite a broad brush to paint over speculation and bias
-by employing the haughty medicalized nature of the language used in describing
-others' lives instead of raising up those different, and at times challenging,
-voices to speak for themselves.
+Writ large by those dubbing themselves [allies](./glossary.md#ally) amidst
+gnashing of teeth at how much suffering *they* face at the hands of this so
+called monstrous calamity, pathologizing the most benign of behaviors in their
+suffering offspring while shouting over adults with lived experience who in
+chorus (using approaches ranging from gentle to bombastic) admonish them to
+adopt simple and effective behavioral changes of their own.  For something only
+diagnosed via behavioral indicators, we've allowed quite a broad brush to paint
+over speculation and bias by employing the haughty medicalized nature of the
+language used in describing others' lives instead of raising up those different,
+and at times challenging, voices to speak for themselves.
 
 With a cursory glance at Autism Advocacy, all focus would seem to be on
 prevention and cures.  Let me assure you these practices equate to
+internationally condemned practices like conversion therapy,
 [eugenics](./glossary.md#eugenics), torture, and murder.  Spend some time on a
 dive into web search results on Ole Ivar Løvaas if you're finding it difficult
 to come along with me on this....
@@ -116,5 +118,6 @@ the source of the disorder in my life.  That spectre is owned solely by those
 who, at various times and places, have abused, neglected, or otherwise worked
 to diminish my standing in whatever group we found ourselves cohabiting.
 
-Am I disabled?  You bet.  Is it autism?  Nope.  Being othered wins that prize.
+Am I disabled?  You bet.  Is it autism?  Nope.  Being [othered](./glossary.md#othered)
+wins that prize.
 

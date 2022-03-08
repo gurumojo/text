@@ -51,8 +51,10 @@ assigned gender at birth -- I simply [don't have any spoons](./glossary.md#spoon
 for defending my turf against [TERFs](./glossary.md#TERF) at this point in my
 story).
 
-Person first language is not welcome when used to describe me (e.g. I am
-autistic vs. I "have autism").
+Person first language is not welcome when used to describe me (e.g. I do not
+"have autism").  Preferred by a mojority of autistic people polled, anyone
+would be well advised to default to identity first language when referencing
+them (e.g. I "am autistic").
 
 Put simply, if you're using any label and you have neither asked me directly
 about the implications of doing so nor been asked by me to do so, you're not
@@ -64,10 +66,11 @@ Origin Story
 
 The first identity I aligned with was Nordic.  Mother's family Norwegian and
 Swedish, Father's Finnish.  I was born into it, but very little tradition
-remained beyond a few foods and words and jokes.  In secret I read the eddas
-and cast runes seeking personal truths.  A longing to understand a deeper felt
-but unspoken connection persisted, mostly dormant.  I never did let go of the
-desire to be able to braid a full and fearsome beard....
+remained beyond a few foods and words and jokes.  In secret I read the
+[Eddur](./glossary.md#edda) and cast [runes](./glossary.md#rune) seeking
+personal truths.  A longing to understand a deeper felt but unspoken connection
+persisted, mostly dormant.  I never did let go of the desire to be able to braid
+a full and fearsome beard....
 
 Alas, bigots and zealots use ancient symbols for childish conceits, making what
 remains of that culture, from my perspective, largely inaccessible due to
@@ -77,11 +80,12 @@ attached bias and stigma.
 To Bi, or Not to Bi
 -------------------
 
-As any young gladiator is wont to do, I explored my sexuality among writhing
-sweaty masculinity with as much ease as tracing butterfly kisses over every inch
-of the divine feminine before succumbing to her beckon.  Charlie the Gladiator
-was my high school mascot.  What?!  They didn't behave this way at your
-schools ...?  Well, bi beg to differ!
+As any young gladiator is wont to do (Charlie the Gladiator was my high school
+mascot), I explored my sexuality among writhing sweaty masculinity with as much
+ease as tracing butterfly kisses over every inch of the divine feminine before
+succumbing to her beckon.
+
+What?!  They didn't behave this way at your schools...?  Well, bi beg to differ!
 
 After processing the traumatization that constituted the bulk of my junior high
 school experience, I explored myself as a budding flower, replete with both male
@@ -220,10 +224,10 @@ Repetition and Learning
 
 Most binaries I encounter, even to this day, just don't compute.  The rigid
 simplistic structure, just so ... empty.  Questions posed authoritatively are
-too often bandied about, filled half full with thoughtless ableism and topped
-off with assumptive triggers and left to speak for myriad voices as though they
-ever could have.  There is poetry in well written prose, most only looking to
-couplets and rhyme.
+too often bandied about, filled half full with thoughtless
+[ableism](./glossary.md#ableism) and topped off with assumptive triggers and
+left to speak for myriad voices as though they ever could have been a monolith.
+There is poetry in well written prose, most only looking to couplets and rhyme.
 
 Masculine expression, feminine perception.  I haven't seen anything like that on
 any list of gender alternatives, even the most woke.  Others report seeing me as
