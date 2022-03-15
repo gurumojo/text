@@ -134,6 +134,10 @@ Definitions and Examples
 <dt id='masculine'>masculine</dt>
 <dd>a set of attributes, behaviors, and roles associated with male gender expression</dd>
 
+<dt id='misanthropy'>misanthropy</dt>
+<dd>general hatred, dislike, distrust or contempt of the human species, human behavior or human nature</dd>
+<dd>the habit of distrusting or of taking the worst possible view of human character or motives</dd>
+
 <dt id='mitigate'>mitigate</dt>
 <dd>the reduction of something harmful or the reduction of its harmful effects</dd>
 
@@ -209,6 +213,11 @@ Definitions and Examples
 <dt id='white'>white</dt>
 <dd>a racialized classification of people; a skin color specifier</dd>
 <dd>generally used for people of European origin, the definition can vary depending on context, nationality, or point of view</dd>
+
+<dt id='white-privilege'>white privilege</dt>
+<dd>a social phenomenon intertwined with race and racism</dd>
+<dd>an unearned, almost randomly assigned, head start</dd>
+<dd>benefits conferred to white people over non-white people in some societies</dd>
 
 <dt id='zine'>zine</dt>
 <dd>short for magazine; a pulp comic or pamphlet; frequent use in counter-culture</dd>
