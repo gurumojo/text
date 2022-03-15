@@ -19,13 +19,17 @@ Definitions and Examples
 <dd>an acronym for Augmentative and Alternative Communication</dd>
 <dd>see also: https://aaccommunity.net/ccc/aac-aac/</dd>
 
-<dt id='a-cappella'>a cappella</dt>
+<dt id='acappella'>a cappella</dt>
 <dd>from Italian musical scores meaning: in the manner of the chapel</dd>
 <dd>to sing without instrumental accompaniment</dd>
 
 <dt id='ableism'>ableism</dt>
 <dd>discrimination and social prejudice against people with disabilities</dd>
 <dd>defining people by their disabilities, inferior to the non-disabled</dd>
+
+<dt id='addiction'>addiction</dt>
+<dd>compulsive engagement in rewarding stimuli despite adverse consequences</dd>
+<dd>chronic physiological or psychological need for a habit-forming substance, behavior, or activity</dd>
 
 <dt id='agency'>agency</dt>
 <dd>a means of exerting power or influence</dd>
@@ -62,6 +66,10 @@ Definitions and Examples
 <dt id='cisgender'>cisgender</dt>
 <dd>one whose gender identity matches their sex assigned at birth</dd>
 <dd>the antonym of <a href='#transgender'>transgender</a></dd>
+
+<dt id='codependence'>codependence</dt>
+<dd>imbalanced relationships where one person enables another person's self-destructive tendencies</dd>
+<dd>an emotional and behavioral condition that affects an individual's ability to have a healthy, mutually satisfying relationship</dd>
 
 <dt id='edda'>edda</dt>
 <dd>ancient oral history of nordic countries</dd>
@@ -214,7 +222,7 @@ Definitions and Examples
 <dd>a racialized classification of people; a skin color specifier</dd>
 <dd>generally used for people of European origin, the definition can vary depending on context, nationality, or point of view</dd>
 
-<dt id='white-privilege'>white privilege</dt>
+<dt id='privilege'>white privilege</dt>
 <dd>a social phenomenon intertwined with race and racism</dd>
 <dd>an unearned, almost randomly assigned, head start</dd>
 <dd>benefits conferred to white people over non-white people in some societies</dd>

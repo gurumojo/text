@@ -44,10 +44,10 @@ except young white boys, they would still have to battle against incessant
 claims of favoritism or direct manipulation via gaslighting and tone policing.
 For any born during the lost generation, before regular screening for
 [neurodivergence](./glossary.md#neurodivergent) was commonplace among school
-children, late life self-identification and/or diagnosis following burnout the
-is often the only path to understanding of the reasons we've struggled so
+children, late life self-identification and/or diagnosis following burnout is
+often the only path to understanding of the reasons they've struggled so
 mightily to avoid joblessness and suicide.  Digital community is often their
-only refuge from bigotry or resource in self-discovery.
+only refuge from bigotry or resource in discovery.
 
 
 Discussion
@@ -129,7 +129,7 @@ continues to require wearying effort.
 
 I could not have metamorphosed into my current state while buffered from daily
 demands had it not been for the access to resources granted by
-[white privilege](./glossary.md#white-privilege) and my capacity for
+[white privilege](./glossary.md#privilege) and my capacity for
 [passing](./glossary.md#passing) as straight.  I was allowed time to break down
 safely after my own support of repeated family tragedies compounded with nearly
 constant [gaslighting](./glossary.md#gaslighting) in professional settings as

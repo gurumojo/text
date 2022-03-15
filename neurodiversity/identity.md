@@ -31,10 +31,13 @@ Binary Limits
 
 Intensive study and analysis of witnessed behaviors leads me into an often
 expansive capacity for feeling the room, almost weather as sense.  I knew more
-about microexpressions than any of my public school topics (excepting the fact I
-was lucky to have music as part of standard school offerings, and music is often
-a refuge and respite for me even still) before I even had a name for these odd
-sources of information sharing wrapped in the guise of subconscious behaviors.
+about microexpressions than any of my public school topics before I even had a
+name for these odd sources of information sharing wrapped in the guise of
+subconscious behaviors.  Music demands expansion of awareness to embrace the
+ensemble, and I was lucky to have music as part of standard school offerings.
+It is often a refuge and respite for me even still.  Outside of school it was
+organized sports breaking me out of immature me vs. them dichotomies to reveal
+the might in a third choice: us.
 
 It was this hyperobservant status quo which led to my affinity with chameleons.
 Any time I felt abused growing up, I'd search the behavior catalog for similar
@@ -93,27 +96,32 @@ and female parts, around the same time as my peers but I felt entirely rushed
 into it.  As with any autistic [autodidactic](./glossary.md#autodidact) approach
 to learning, I ravenously consumed everything I could find which related, AKA
 not much beyond hetero-normative brainwashing or ['zines](./glossary.md#zine)
-all in on the G part of LGBT+.  [Bi erasure](./glossary.md#erasure) loomed with
-unsettling foreshadowing.
+which went all in on the G part of LGBT+.  [Bi erasure](./glossary.md#erasure)
+loomed with unsettling foreshadowing.
 
 Adventure buddies at the time would rendezvous at tea and coffee houses,
 boutique book and toy stores, really anywhere that would patiently host our
 rambling, often giggly, sessions of discovery and intrigue.  During one such
-occassion I landed on the Kinsey Report, an angel chorus may have been singing.
-I don't know, I got pulled into a tunnel.  I was simultaneously and immediately
-terrified of being seen with it, laser focused on unearthing its secrets, and
-bodily thrilled at the potential lessons lurking within this tome so I wouldn't
-have heard the heavenly harmony anyway.  I carried that book with me everywhere
-while I worked through its pages, dictionary and travel thesaurus at the ready.
-Enthralled by the themes and variations on what moved people into action, I
-envisioned myself straddling the midline of the scale and became eager to
-discuss, but how!?!  With whom!?!?
+occassion I landed on recently published analysis and extension of the Kinsey
+Reports, described as the first major study of
+[bisexuality](./glossary.md#bisexual), Dual Attraction: Understanding
+Bisexuality.  An angel chorus may have been singing;  I don't know, I got pulled
+into a tunnel.  I was simultaneously and immediately terrified of being seen
+with it, laser focused on unearthing its secrets, and bodily thrilled at the
+potential lessons lurking within this tome so I wouldn't have heard the heavenly
+harmony anyway.  I carried that book with me everywhere while I worked through
+its pages, dictionary and travel thesaurus at the ready.  Enthralled by the
+themes and variations on what moved people into action, I envisioned myself
+straddling the midline of the scale and became eager to discuss, but how!?!
+With whom!?!?
 
 And so we arrive at Pride:  rainbows, leather, judgement, and AIDS discourse.
 I still didn't know any mentors with lived experience.  My undiagnosed and
 unrecognized social disability compounding discovery of tribal knowledge led
 me nowhere fast.  Not sure of much, I had by that point decided one thing on my
-own, and displayed it prominently on my t-shirt:  It's Not Just A Phase
+own, and displayed it prominently on my t-shirt:
+
+	It's Not Just A Phase
 
 And it wasn't.  But what was it?
 
@@ -149,7 +157,7 @@ naked soapy erection along with his smiling invite to hop through the open
 curtain so we could get there even sooner and he could show me around.
 
 I decided I was better off letting my newly discovered peers meet me obviously
-right off the job site.  I wasn't going to learn what I needed this way....
+right off the job site.  I wasn't going to learn what I needed his way....
 
 
 Purple and Gold
@@ -170,23 +178,25 @@ have included:
 	* opium
 	* psylocybin
 	* pharmaceuticals
+	* tobacco
 
 At that university I disc golfed, dance partied, and found myself in the
 information systems department of a leading business school as my best play
 for a sustainable income source.  Already at this stage I had discovered and
 demonstrated a crude mastery over building structure into my life as crutches
-for lacking social constructs.  Addiction, codependence, and recognition of
-the implications of pursuing those paths, too.  I saw very clearly the link
+for lacking social constructs.  [Addiction](./glossary.md#addiction),
+[codependence](./glossary.md#codependence), and recognition of
+the implications of pursuing those paths came too.  I saw very clearly the link
 between risky behavior and the razor edge separating appearances of health from
 those called disease.
 
 I also learned what it is to really sing in harmony and reverberate with my
 whole body in mighty unison under precise direction.  I attended master classes
 with internationally touring jazz singers, played the part of a haunted statue
-in an opera and thumped out bass lines in an [a cappella](./glossary.md#a-capella)
+in an opera and thumped out bass lines in an [a cappella](./glossary.md#acapella)
 group between concert choir sets.  It was there, doing what I most loved, that I
 first experienced autistic burnout without recognizing it.  Nobody in my life
-used the A word beyond passing curiosity, so how could I?
+used the A word beyond passing curiosity, so ... how could I?
 
 Go Bears!
 
@@ -234,18 +244,19 @@ any list of gender alternatives, even the most woke.  Others report seeing me as
 an overly aggressive white male.  My senses tell me I'm the one being beaten
 into submission repeatedly on top of incessant tone policing.  My mind won't
 allow me access if I am overwhelmed.  It seems to act with protective short
-circuits, turning the potential for meltdowns into shutdowns (less external
-behavioral impact, at least, even if they each exact heavy tolls).  I've been
-able to cobble together a multi-decade career without knowing I was making
-withdrawals from an interest free account, but now I'm overdrawn.
+circuits, turning the potential for [meltdowns](./glossary.md#meltdown) into
+[shutdowns](./glossary.md#shutdown) (less external behavioral impact, at least,
+even if they each exact heavy tolls).  I've been able to cobble together a
+multi-decade career without knowing I was making withdrawals from an interest
+free account, but now I'm overdrawn.
 
 The times in my life I've felt struck by the pejorative "man up!" or bristled
 at being told I was not manly enough stand out frequently in my recall.  I have
 never quite known how I should express my feelings in a way that doesn't
 immediately catch fire during these events.  It was only recently I came to the
 realization that I wasn't offended at the attacks on some non-existent manhood
-nearly as much as the ever-present assumption I ever projected that identity
-into the world in the first place.
+nearly as much as the ever-present assumption that I ever projected that
+identity into the world in the first place.
 
 I've got the legs for dresses and heels.  Even college boys have hurled catcalls
 before facial hair came into focus and they threatened violence.  I also clean
