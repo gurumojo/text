@@ -69,7 +69,13 @@ Definitions and Examples
 
 <dt id='codependence'>codependence</dt>
 <dd>imbalanced relationships where one person enables another person's self-destructive tendencies</dd>
-<dd>an emotional and behavioral condition that affects an individual's ability to have a healthy, mutually satisfying relationship</dd>
+<dd>an emotional and behavioral condition that affects an individual's ability to have a mutually satisfying relationship</dd>
+
+<dt id='echolalia'>echolalia</dt>
+<dd>imitation of words, phrases, or noises that have been heard</dd>
+<dd>common in young children who are first learning to speak</dd>
+<dd>pathologized when witnessed without recognizing inherent communicative function</dd>
+<dd>communicative functions: turntaking, requesting, self-regulation, and rehearsal to aid comprehension</dd>
 
 <dt id='edda'>edda</dt>
 <dd>ancient oral history of nordic countries</dd>
@@ -186,12 +192,6 @@ Definitions and Examples
 <dt id='rune'>rune</dt>
 <dd>runic alphabet symbol</dd>
 <dd>used to write various Germanic languages before the adoption of the Latin alphabet</dd>
-
-<dt id='echolalia'>echolalia</dt>
-<dd>imitation of words, phrases, or noises that have been heard</dd>
-<dd>common in young children who are first learning to speak</dd>
-<dd>pathologized when witnessed without recognizing inherent communicative function</dd>
-<dd>communicative functions: turntaking, requesting, self-regulation, and rehearsal to aid comprehension</dd>
 
 <dt id='shibboleth'>shibboleth</dt>
 <dd>any identifying word, manner of speaking, or behavior that shows someone to be part of a particular group</dd>
