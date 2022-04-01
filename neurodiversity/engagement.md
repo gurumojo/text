@@ -10,7 +10,7 @@ beyond numbers found in neurotypical populations are common for autistic people
 ⇜
 [Neurodiversity](./README.md 'Main')
 ⇝
-[Setting the Stage](./introduction.md 'Next')
+[Facilitated Growth](./vision.md 'Next')
 
 
 Competition vs. Collaboration

@@ -24,30 +24,33 @@ misguided effort in autism advocacy as well as the politics of medicine.
 Resolution
 ----------
 
-Check out [Neurotribes](https://neurotribes.com/) from author Steve Silberman
-for the entire bedraggled history of oppression and misanthropy over the roughly
-80 years autistics have been known to the medical establishment.  Suffice it to
-say, many fitting this diagnosis prefer to look upon it as an identity as
-opposed to a disorder or a disease.  Many of those same people share similar
-experiences of being [othered](./glossary.md#othered) and shouted over when it
-came time to decide how they were going to access aide or describe their own
-unique needs.  Many of them were in fact tortured, denied any agency or the
+Check out [Neurotribes](https://neurotribes.com/) from author
+[Steve Silberman](https://twitter.com/stevesilberman) for the entire bedraggled
+history of oppression and [misanthropy](./glossary.md#misanthropy) over the
+roughly 80 years autistics have been known to the medical establishment.
+Suffice it to say, many fitting this diagnosis prefer to look upon it as an
+identity as opposed to a disorder or a disease.  Many of those same people share
+similar experiences of being [othered](./glossary.md#othered) and shouted over
+when it came time to decide how they were going to access aide or describe their
+own unique needs.  Many of them were in fact tortured, denied any agency or the
 basic human right of communication.
 
 Parents' self-centered suffering over imagined lost possibilities for the ideal
 neurotypical children they desired is the only possible focus when we consider
-continually mounting cases of filicide.  For those surviving childhood,
-provisions for accomodation are so often reported as too onerous for allistic
-people (if it is indeed considered at all).  If one were lucky enough to obtain
-access beyond gatekeepers of diagnosis and resources so often denied to anyone
-except young white boys, they would still have to battle against incessant
-claims of favoritism or direct manipulation via gaslighting and tone policing.
-For any born during the lost generation, before regular screening for
-[neurodivergence](./glossary.md#neurodivergent) was commonplace among school
-children, late life self-identification and/or diagnosis following burnout is
-often the only path to understanding of the reasons they've struggled so
-mightily to avoid joblessness and suicide.  Digital community is often their
-only refuge from bigotry or resource in discovery.
+continually mounting cases of [filicide](./glossary.md#filicide).  For those
+surviving childhood, provisions for accomodation are so often reported as too
+onerous for [allistic](./glossary.md#allistic) people (if it is indeed
+considered at all).  If one were lucky enough to obtain access beyond
+gatekeepers of diagnosis and resources so often denied to anyone except young
+white boys, they would still have to battle against incessant claims of
+favoritism or direct manipulation via gaslighting and tone policing.  For any
+born during the
+[lost generation](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8415774/), before
+regular screening for [neurodivergence](./glossary.md#neurodivergent) was
+commonplace among school children, late life self-identification and/or
+diagnosis following burnout is often the only path to understanding of the
+reasons they've struggled so mightily to avoid joblessness and suicide.  Digital
+community is often their only refuge from bigotry and/or resource in discovery.
 
 
 Discussion

@@ -85,6 +85,10 @@ Definitions and Examples
 <dd>an act or instance of erasing</dd>
 <dd>in re <a href='#bisexual'>bisexuality</a>: to ignore, remove, falsify, or re-explain historical evidence</dd>
 
+<dt id='filicide'>filicide</dt>
+<dd>the deliberate act of a parent killing their own child</dd>
+<dd>to murder one's own offspring</dd>
+
 <dt id='fraught'>fraught</dt>
 <dd>something marked by causing distress or emotional overwhelm</dd>
 <dd>overwhelming influence of a specified type (e.g. fraught with danger)</dd>
