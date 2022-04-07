@@ -10,7 +10,7 @@ seeking opportunity as an architect or individual contributor.
 
 Having tended to every level of the application stack, my focus has
 historically specialized around systems integration and automation.
-I am looking to join a stable development team which fully embraces
+I am actively engaged in development efforts which fully embrace deep
 introspection, frank discussion, and deliberate action. Iterating to
 realize awesome solutions can be difficult work, but building systems
 utilizing free and open standards, development models, and licensing
@@ -20,8 +20,23 @@ presents exciting opportunities for collaboration and learning.
 Professional Experience
 =======================
 
-Softrams -- October 2020 - January 2021
----------------------------------------
+gurumojo -- August 2012 - Present
+---------------------------------
+
+*Software Architect*
+
+Embracing the call for services catering to neurodivergent needs and
+advocacy, I am creating and maintaining digital services and tooling
+which meets the highest ideals embedded within the disability rights
+motto: nihil de nobis sine nobis (nothing about us without us).
+
+ * requirements gathering and domain namespace definition
+ * cross cutting concerns abstracted from service instances
+ * scalable, redundant, and secure software design and support
+
+
+Softrams -- October 2020 - February 2021
+----------------------------------------
 
 *Senior Full Stack Developer*
 
@@ -53,7 +68,7 @@ of beta testing for the Health Pass incubator project.
  * AWS, CloudFormation, Docker, NodeJS, Express, Matomo, ReactNative
 
 
-Moovel, NA -- February 2016 - July 2018
+moovel, NA -- February 2016 - July 2018
 ---------------------------------------
 
 *Senior Software Engineer*

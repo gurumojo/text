@@ -1,17 +1,17 @@
-Résumé
-======
+Curriculum Vitae
+================
 
-A C.V. for Matthew P. Larson
+A summarized collection of professional experience
 
 
 Cover Letter
 ------------
 
 I'm not writing typical letters to prospective employers any more.  In fact, I'm
-refusing requests based on things said to be "normal" at first glance.  Why...?
-I have sought after skills, patience, knowledge, decades of experience, a proven
+refusing requests based on things said to be normal at first glance.  Why...?  I
+have sought after skills, patience, knowledge, decades of experience, a proven
 track record of teamwork as well as innovative solo contributions and ... I'm
-not normal.
+not normal.  I know every system is unique and I treat them as such.
 
 
 While interviewing each of my last few managers one important question was posed
@@ -28,7 +28,10 @@ and receive much needed support has revealed this system accepted via silence of
 the privileged works precisely as intended.  As such the have nots keep on not
 having regardless of morals, habits, effort, luck, or any other nonsensical
 conclusion drawn within contexts designed solely to extract value from others'
-labor while disallowing a seat at the table as peers in decision making.
+labor while disallowing a seat at the table as peers in decision making.  While
+accommodations guaranteed by rule of law continue to be flouted by those with
+such narrow views, calling equitable treatment preferential due to ignorance or
+bias, I will remain dedicated to breaking down walls built by privileged.
 
 I realize broadcasting this perspective may be seen as risky or ill-advised by
 most in my peer network.  That is precisely the fear based position I seek to
@@ -49,10 +52,11 @@ Questions for Employers
  7) How do you foster collaboration over competition within your team?
 
 
-Curriculum Vitae
-----------------
+Supporting Detail
+-----------------
 
-Any intrigued are encouraged to read about [the course of my life](./cv.md) or
+Any intrigued are encouraged to read about the
+[course of my life](./credential.md) to date or
 [my path forward](../neurodiversity/engagement.md).
 
 
