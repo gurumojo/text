@@ -45,12 +45,12 @@ Surely, I'm exaggerating...?!  No, and I will not accept further gaslighting.
 
 One case in point was the wide distribution encouraged by management after a
 developer on my sprint team, having obviously mistaken some communication
-failure as my personal deficit, sent out an article disparaging "expert
-beginners" as unknowing imitators followed by repeated loud conversation near me
+failure as my personal deficit, sent out an article disparaging expert
+beginners as unknowing imitators followed by repeated loud conversation near me
 about how some people were clueless to their own imposter behavior....
 Nevermind that most of my clarifying questions were overridden, as though I
-simply hadn't done my homework, the very moment any teammate's "brilliant
-solution" had any weakness exposed.  He seemed certain we were all fighting over
+simply hadn't done my homework, the very moment any teammate's brilliant
+solution had any weakness exposed.  He seemed certain we were all fighting over
 supremacy vs. clawing out a spare living by leaving everything one has on the
 playing field for the benefit of the whole team.  He spoke as though we should
 all have read from the same page and come to the same conclusions.  His
@@ -67,13 +67,13 @@ a perceived threat rising up (e.g. the axe fell on my neck instead of any good
 ol' boy incompetents plainly exposed using objective qualitative measures).
 
 The irony is those same teams had already documented improved outcomes via my
-advising toward inclusive practices by the time complaints of the onerous "extra
-workloads" they were suffering for "purely theoretical gains" defaulted us back
+advising toward inclusive practices by the time complaints of the onerous extra
+workloads they were suffering for purely theoretical gains defaulted us back
 into methods which easily doubled my personal workload via peer negligence
 alone.  Instead of honoring our shared struggle and platforming these examples
 of successful inclusion and actually employing iterative process, dog fooding,
 walking the talk, my very real human needs were written off as nothing more than
-the cost of doing business.  Must accelerate ROI!
+the cost of doing business.
 
 
 Coming About
@@ -85,12 +85,12 @@ which gave rise to any reported conflict.  Without fail my quiet and consistent
 pleas for aide, accompanied by alternative solutions, went ignored until
 repeated once too often.  Then I would suddenly be described as presenting
 problematic behavior.  Any outbursts (surely the most common aspect these teams
-would describe of my behavior with revisionist histories being what they are...)
-were autistic reactions to people actually fighting to obscure meaning, to
-encode clever solutions (e.g. difficult to decipher) for their own amusement, to
-flout most well tested best practices and the
-[ADA](https://www.essentialaccessibility.com/blog/ada-guidelines)
-with every single protection it stands for regarding digital environments.
+would describe of our shared experience with revisionist histories being what
+they are...) were autistic reactions to people actually fighting to obscure
+meaning, to encode clever solutions (e.g. difficult to decipher) for their own
+amusement, to flout most well tested best practices and the
+[ADA](https://www.essentialaccessibility.com/blog/ada-guidelines) with every
+single protection it stands for regarding digital environments.
 
 Abuse of power, the bellweather of ensured neglect and exclusion, is something
 I have never been able to abide.  Since completing a recent round of research
@@ -126,8 +126,8 @@ Personal Appraisal:
 * preference for routine
 * self-motivated autodidact
 * rushing is an anti-workflow
-* neurotypical "normal" is ableism
-* justice is impossible when its "just us"
+* neurotypical normal is ableism
+* justice is impossible when its just us
 
 <div></div>
 

@@ -1,8 +1,12 @@
 
-Facilitated Growth
-==================
+Facilitated Growth (original draft)
+===================================
+
+Writing prompts from the Naropa University graduate admissions process
+
 
 How are you prepared to participate in this distinctive community?
+------------------------------------------------------------------
 
 I've long been committed to the advancement and centering of marginalized people.
 It began, as many things do, in a selfish pursuit of comfort.  I've known why
@@ -23,6 +27,7 @@ for helping others.
 
 
 How would your goals be reached by attending the program?
+---------------------------------------------------------
 
 As someone who desired nothing more than to become a professional student when
 they first earned a degree, I never have put all the pieces into play.  Debt and
@@ -71,6 +76,7 @@ provide accessible and therapeutic space for a variety of neurodivergent needs.
 
 
 Describe your inspiration, intention, and commitment to studying psychotherapy.
+-------------------------------------------------------------------------------
 
 Nihil de nobis sine nobis!  This slogan borrowed from disability activists means
 nothing about us without us.  Ever since I can remember, I've loved digging deep
@@ -86,11 +92,8 @@ fully embrace the notion that anyone sitting opposite me can act as a staunch
 ally in my own work.  We are on this path together.
 
 
-
-Deep Personal Reflection
-------------------------
-
 Describe your vision of how your education will allow you to be of service in the world:
+----------------------------------------------------------------------------------------
 
  1) experience with working in service to others, as a professional or volunteer, in a mental health or comparable setting and what you have learned about yourself in the process
 

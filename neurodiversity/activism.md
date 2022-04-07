@@ -15,7 +15,7 @@ Always present, now unapologetically promoted
 Wrong Template
 --------------
 
-Over the last handful of years my struggle to define and obtain the help I need
+Over a handful of years my struggle to define and obtain the help I need
 addressing challenges specific to socially exacerbated disability exploded into
 epic proportion.  [Allistic](./glossary.md#allistic) [allopathic](./glossary.md#allopathic)
 medical practitioners bullied and cajoled with ableism and derision of my pathos.
@@ -59,7 +59,7 @@ glimmer of a chance at truly satisfying and fulfilling work which afforded a
 roof, meals, and healthcare.
 
 I was only able to hold pace with about 10-20% of my 40 year old capacity
-during my forty-fifth year of life.  Ongoing recovery from burnout has hinged on
+during my forty-fifth year of life.  Ongoing recovery from burnout hinged on
 discovering people like me online.  The disability and activist communities
 adjacent to autism and cooccurring medical conditions held open the flood gates
 and allowed me to snatch a roughly sketched map of the landscape throughout

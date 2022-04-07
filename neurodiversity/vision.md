@@ -5,7 +5,7 @@ Facilitated Growth
 Adapted from a graduate school admission essay
 
 
-[Lacking Agency](./agency.md 'Previous')
+[Emerging Activism](./activism.md 'Previous')
 ⇜
 [Neurodiversity](./README.md 'Main')
 ⇝
@@ -227,8 +227,9 @@ fell away; germination, growth, decay, and rest yielded perfect examples of the
 changes happening within myself.  In a combined sensory avoidant and sensory
 seeking state I discovered that allowing my body to move more freely depended
 upon that entire perceptive feedback loop.  Times that I have studied yoga, tai
-chi, or sport and the resulting confidence in my own interoception proved
-invaluable as I debugged my broken proprioception.
+chi, or sport and the resulting confidence in my own
+[interoception](./glossary.md#interoception) proved invaluable as I debugged my
+broken [proprioception](./glossary.md#proprioception).
 
 Established gardens don't change much over time.  It is easy to be distracted by
 the cycle of seasons.  I’ve found it important to remember avoidance of judgment
@@ -245,17 +246,19 @@ Having recently been introduced to the concept of white people chairs, I found
 the discussion to perfectly encompass the basic lack of understanding and
 perspective at the root of White Privilege as well as my own disability.  One of
 the examples used to illustrate and explain was tourists on safari, or visiting
-remote villages, who demanded "proper chairs" when presented with mats on the
+remote villages, who demanded proper chairs when presented with mats on the
 ground or simple stools.  The place of honor afforded to strangers by those
 indigenous to the region is not often recognized as such by outsiders seeking
-entertainment and distraction from their "civilized pursuits" because it doesn't
+entertainment and distraction from their civilized pursuits because it doesn't
 come presented within the defaults they assume as common sense.  I think of it
-as the pursuit of "proper" at all costs; a very narrow world view indeed.
+as the pursuit of proper at all costs; a very narrow world view indeed.
 
 Every individual view of an ideal garden will vary; we all bring our own trauma
 and bias with us wherever we go.  Welcoming others into sensory environments
 supportive of their personal work is my dream.
 
 
+---
 
-See also: [original draft of responses to required talking points](./education.md)
+See also: [original draft](./education.md)
+
