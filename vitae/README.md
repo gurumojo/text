@@ -11,7 +11,7 @@ I'm not writing typical letters to prospective employers any more.  In fact, I'm
 refusing requests based on things said to be normal at first glance.  Why...?  I
 have sought after skills, patience, knowledge, decades of experience, a proven
 track record of teamwork as well as innovative solo contributions and ... I'm
-not normal.  I know every system is unique and I treat them as such.
+not normal.
 
 
 While interviewing each of my last few managers one important question was posed

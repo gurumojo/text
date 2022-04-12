@@ -8,5 +8,5 @@ markdown
 --------
 
 * [neurodiversity](./neurodiversity/)
-* [résumé](./résumé/)
+* [vitae](./vitae/)
 
