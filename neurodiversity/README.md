@@ -9,13 +9,14 @@ emotional regulation, learning, sensory processing, etc.
 Pathologization
 ---------------
 
-Sociologist Judy Singer rejected the notion of autism as a disability when she
-coined the term [neurodiversity](./glossary.md#neurodiversity), instead favoring
-a perspective embracing different ways brains process information.  As this
-important shift in thinking has spread around the world it undercuts medical
-industry specific framing of how people are disabled and supports a model which
-defines disability in a social context where work is required of abled people to
-achieve inclusion and equitable treatment for all.
+Autistic activists rejected the notion of autism as a disability when they
+coined the term [neurodiversity](./glossary.md#neurodiversity) during the
+[early 1990s](https://twitter.com/WalkerSensei/status/1512643383088410627),
+instead favoring a perspective embracing different ways brains process
+information.  As this important shift in thinking has spread around the world it
+undercuts medical industry specific framing of how people are disabled and
+supports a model which defines disability in a social context where work is
+required of abled people to achieve inclusion and equitable treatment for all.
 [Ontological negation](https://twitter.com/alexhaagaard/status/1402089497123344387),
 unfortunately for neurodivergents, is the actual goal of much of the current
 misguided effort in autism advocacy as well as the politics of medicine.
@@ -57,15 +58,15 @@ Discussion
 ----------
 
 In what was only the beginning of this awakening we continue to witness, as
-communities redefine themselves using digital tooling through the 2020s and
+communities redefine themselves using digital tooling through the 2010s and
 beyond, I've felt the undeniable tug from my future self refusing to let me
-rest though weary.  When I wasn't working over the course of the last year I
+rest though weary.  When I wasn't working over the course of the early 2020s I
 was most likely recovering from what little work I was able to accomplish.  My
 physical downtime was enforced by yet undiagnosed chronic condition(s) flaring
 throughout what I now recognize as another [autistic burnout](./burnout.md).
 When it didn't coincide with mental fatigue it allowed time to read voluminous
 research and personal accounts and network with other neurodivergents on similar
-paths to discovery.  I did more reading that year than was required for my
+paths to discovery.  I did more reading in one year than was required for my
 entire undergraduate degree, and my interest is only piquing as I continue
 learning how to wield my abilities and manage previously unrecognized deficits.
 My native [hyperfocused](./glossary.md#hyperfocus) and [autodidactic](./glossary.md#autodidact)
