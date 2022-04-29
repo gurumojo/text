@@ -1,6 +1,6 @@
 
 Ordered Identity
-----------------
+================
 
 Identification is personally rooted and wholly owned by holders of intent
 

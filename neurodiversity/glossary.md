@@ -142,6 +142,10 @@ Definitions and Examples
 <dd>an intense form of mental concentration or visualization that focuses consciousness on a subject, topic, or task</dd>
 <dd>unusual depth of attention sometimes mistaken for obsessive behavior or selective listening</dd>
 
+<dt id='hyperlexic'>hyperlexic</dt>
+<dd>high-level reading skills, but may lack communication skills in other areas</dd>
+<dd>generally an early and strong interest in letters, symbols, and patterns</dd>
+
 <dt id='magnitude'>magnitude</dt>
 <dd>a property which determines whether the object is larger or smaller than other objects of the same kind</dd>
 <dd>an order of magnitude is a common reference to a 10X magnification of size</dd>

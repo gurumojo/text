@@ -9,7 +9,7 @@ Adapted from a graduate school admission essay
 ⇜
 [Neurodiversity](./README.md 'Main')
 ⇝
-[Setting the Stage](./introduction.md 'Next')
+[Sensory Garden](./garden.md 'Next')
 
 
 Transpersonal Wilderness Therapy
@@ -17,7 +17,8 @@ Transpersonal Wilderness Therapy
 
 I've long been committed to the advancement and centering of marginalized
 people.  It began, as many things do, in a selfish pursuit of comfort.  Not
-until my forties did my lifelong autodidactic bent reveal answers I'd longed for
+until my forties did my lifelong [autodidactic](./glossary.md#autodidact) and
+[hyperlexic](./glossary.md#hyperlexic) bent reveal answers I'd longed for
 since early youth, and that delay was largely because nobody around me had any
 experience with things that weren't widely considered normal within those
 communities.  Embracing neurodiversity and the realities of multiple
@@ -70,27 +71,28 @@ understanding.  It was not until years later that I realized how the grant
 winners had been placed intentionally on that trip for just this reason.
 
 Continuing to volunteer wherever I recognized need resulted in many other high
-points on my path to the present.  Free Geek (a community service organization
-focused on minimizing electronic landfill waste, reuse and recycling of any and
-everything possible out of old or discarded devices, donation of tested and
-reassembled gear to impoverished community members, and a thrift store for any
-with enough money to splurge on hardware) was not a clinic per se, but much of
-the work done there could have easily been witnessed in a social work or
-counseling office.  Personal advising, facilitated self-help programs,
-collection of donated food from local businesses for redistribution to those in
-need....  Here again I saw myself reflected in those I helped as well as those I
-looked to for leadership.
+points on my path to the present.  [Free Geek](https://www.freegeek.org/) (a
+community service organization focused on minimizing electronic landfill waste,
+reuse and recycling of any and everything possible out of old or discarded
+devices, donation of tested and reassembled gear to impoverished community
+members, and a thrift store for any with enough money to splurge on hardware)
+was not a clinic per se, but much of the work done there could have easily been
+witnessed in a social work or counseling office.  Personal advising, facilitated
+self-help programs, collection of donated food from local businesses for
+redistribution to those in need....  Here again I saw myself reflected in those
+I helped as well as those I looked to for leadership.
 
 More focused on outdoor experience and developmental disability services, my
 time volunteering to aid in promotion or setting up fund raisers or acting as a
-chaperon and guide on trips sponsored by Adventures Without Limits opened my
-eyes to neurodivergence before I had words for adjacent concepts.  I found
-clients to have similar needs and difficulty accessing help.  I saw what an
-impact holding space patiently while suspending disbelief or judgment could
-make.  I saw an organization fully devoted to opening doors for people, adapting
-gear to accommodate paraplegics on river rafting trips or pairing the
-intellectually disabled to volunteers like myself within a tandem kayak fleet in
-search of bald eagles.
+chaperon and guide on trips sponsored by
+[Adventures Without Limits](https://awloutdoors.org/) opened my eyes to
+neurodivergence before I had words for adjacent concepts.  I found clients to
+have similar needs and difficulty accessing help.  I saw what an impact holding
+space patiently while suspending disbelief or judgment could make.  I saw an
+organization fully devoted to opening doors for people, adapting gear to
+accommodate paraplegics on river rafting trips or pairing the intellectually
+disabled to volunteers like myself within a tandem kayak fleet in search of bald
+eagles.
 
 Ultimately, the most impactful lessons came when I identified with the struggle
 I witnessed.  I realized how much more similar than different people appear to
