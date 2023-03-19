@@ -24,7 +24,7 @@ Core Competencies
 Professional Skills
 -------------------
 
-Leadership for Equity
+__Leadership for Equity__
 
  * Builds coalitions with emphasis on centering marginalized team members to address unmet needs and ensure collective success
  * Offers counsel and mentorship to individuals seeking help with effectively integrating group processes and agreements
@@ -33,7 +33,7 @@ Leadership for Equity
  * Stands in solidarity with several marginalized identities, holds epistemic privilege regarding intersectional experience, and fosters deeply inclusive collaborations
 
 
-Broaching for Healing
+__Broaching for Healing__
 
  * Quickly recognizes the unspoken, often uncomfortable or shameful, shadow parts present in any given system or group
  * Practices on a continuum of conflict resolution options from calling on, to calling in, to eventually calling out problematic experience
@@ -42,7 +42,7 @@ Broaching for Healing
  * Asks tough questions while suspending disbelief and judgement, listening deeply in search of mutual understanding
  
 
-Holds Cognitive Dissonance
+__Holds Cognitive Dissonance__
 
  * Identifies opportunity to collaborate with disparate groups in promoting goals of innovation and expansion of awareness
  * Frequently, when located beyond unrelatable binary options, exceeds known expectations while maintaining contradictory perspective
@@ -51,7 +51,7 @@ Holds Cognitive Dissonance
  * Considers diverse experiences and needs of others when selecting or designing interventions for the most profound impact
 
  
-Deeply Attentive
+__Deeply Attentive__
 
  * Seeks confirmation of observations and deductions, often drawing attention to overlooked features or unmet needs
  * Considers listening a whole-body engagement of the sensory field, with a focused attunement on others in relationship
@@ -60,7 +60,7 @@ Deeply Attentive
  * Empties the cup and presents with a beginner's mind whenever appropriate, without hesitation or embarassment
 
 
-Committed to Activism
+__Committed to Activism__
 
  * Acknowledges location often granted privilege, and openly discusses complexity as an advantaged other
  * Speaks truth to power, directly and indirectly, via engagement with broaching or coaching as needed
