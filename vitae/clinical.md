@@ -1,3 +1,5 @@
+Clinical Skills
+===============
 
  
 Counselor | Experience Designer | Facilitator | Implementation Architect | Mentor | Semantics Specialist
@@ -70,61 +72,67 @@ Committed to Activism
 Professional Experience
 -----------------------
 
-August 2012 - Present         |  Software Architect              |  *gurumojo*
-                              |  collaborate, define, implement  |  Boulder, CO
+```
+     August 2012 - Present            Software Architect                 *gurumojo*
+                                      collaborate, define, implement     Boulder, CO
 
-October 2020 - February 2021  |  Senior Full Stack Developer     |  *Softrams*
-                              |  enhance, refactor, translate    |  Leesburg, VA
+     October 2020 - February 2021     Senior Full Stack Developer        *Softrams*
+                                      enhance, refactor, translate       Leesburg, VA
 
-October 2018 - August 2020    |  Software Developer III          |  *Cambia Health Solutions*
-                              |  migrate, integrate, automate    |  Portland, OR
+     October 2018 - August 2020       Software Developer III             *Cambia Health Solutions*
+                                      migrate, integrate, automate       Portland, OR
 
-February 2016 - July 2018     |  Senior Software Engineer        |  *moovel, NA* (GlobeSherpa)
-                              |  rebuild, redefine, rediscover   |  Portland, OR
+     February 2016 - July 2018        Senior Software Engineer           *moovel, NA* (GlobeSherpa)
+                                      rebuild, redefine, rediscover      Portland, OR
 
-August 2012 - February 2016   |  Software Developer              |  *CollegeNet*
-                              |  architect, implement, repeat    |  Portland, OR
+     August 2012 - February 2016      Software Developer                 *CollegeNet*
+                                      architect, implement, repeat       Portland, OR
 
-April 2011 - June 2012        |  Web Services Developer          |  *VTM Group*
-                              |  implement, deploy, scale        |  Portland, OR
+     April 2011 - June 2012           Web Services Developer             *VTM Group*
+                                      implement, deploy, scale           Portland, OR
 
-July 2010 - March 2011        |  Web Production Developer        |  *Infogroup* (Yesmail)
-                              |  script, test, troubleshoot      |  Portland, OR
+     July 2010 - March 2011           Web Production Developer           *Infogroup* (Yesmail)
+                                      script, test, troubleshoot         Portland, OR
 
-May 2006 - May 2010           |  Web Application Developer       |  *CD Baby* (HostBaby)
-                              |  design, migrate, ship           |  Portland, OR
+     May 2006 - May 2010              Web Application Developer          *CD Baby* (HostBaby)
+                                      design, migrate, ship              Portland, OR
 
-March 2003 - May 2006         |  Online Learning Helpdesk        |  *eCollege*
-                              |  document, build, support        |  Englewood, CO
+     March 2003 - May 2006            Online Learning Helpdesk           *eCollege*
+                                      document, build, support           Englewood, CO
 
-July 1999 - March 2002        |  NNOC Tier 3 Tech                |  *AT&T Broadband* (TCI)
-                              |  alert, escalate, manage         |  Englewood, CO
+     July 1999 - March 2002           NNOC Tier 3 Tech                   *AT&T Broadband* (TCI)
+                                      alert, escalate, manage            Englewood, CO
+```
 
 
 Formal Education
 ----------------
 
-(May 2025)      |  MA in Transpersonal Wilderness Therapy  |  Naropa University, Boulder, CO
+```
+     (May 2025)         MA in Transpersonal Wilderness Therapy     Naropa University, Boulder, CO
 
-August 2014     |  Presenting Data and Information         |  Howard Tufte, Portland, OR
+     August 2014        Presenting Data and Information            Howard Tufte, Portland, OR
 
-January 2014    |  Ethical Hacking Training                |  InfoSec Institute, Portland, OR
+     January 2014       Ethical Hacking Training                   InfoSec Institute, Portland, OR
 
-February 2002   |  7 Habits of Highly Effective People     |  FranklinCovey, Englewood, CO
+     February 2002      7 Habits of Highly Effective People        FranklinCovey, Englewood, CO
 
-September 2001  |  Dale Carnegie Course                    |  Dale Carnegie & Associates, Englewood, CO
+     September 2001     Dale Carnegie Course                       Dale Carnegie & Associates, Englewood, CO
 
-May 2001        |  Basic UNIX Systems Administration       |  Westwood College, Arvada, CO
+     May 2001           Basic UNIX Systems Administration          Westwood College, Arvada, CO
 
-May 1999        |  Bachelor of Arts in Music (CIS minor)   |  University of Northern Colorado, Greeley, CO
+     May 1999           Bachelor of Arts in Music (CIS minor)      University of Northern Colorado, Greeley, CO
+```
 
 
 Volunteer Efforts
 -----------------
 
-March 2023 - Present        |  Student Union Group Facilitator |  Neuroqueer Naropa, Boulder, CO
+```
+     March 2023 - Present           Student Union Group Facilitator     Neuroqueer Naropa, Boulder, CO
 
-April 2018 - November 2019  |  Elder Care, Medical, Social     |  Brookdale, Scappoose, OR
+     April 2018 - November 2019     Elder Care, Medical, Social         Brookdale, Scappoose, OR
 
-May 2006 - August 2010      |  Donations, Recycling, Building  |  FREE GEEK, Portland, OR
+     May 2006 - August 2010         Donations, Recycling, Building      FREE GEEK, Portland, OR
+```
 
