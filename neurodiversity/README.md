@@ -9,7 +9,7 @@ emotional regulation, learning, sensory processing, etc.
 Pathologization
 ---------------
 
-Autistic activists rejected the notion of autism as a disability when they
+Autistic activists rejected the notion of autism as pathological when they
 coined the term [neurodiversity](./glossary.md#neurodiversity) during the
 [early 1990s](https://twitter.com/WalkerSensei/status/1512643383088410627),
 instead favoring a perspective embracing different ways brains process
@@ -88,7 +88,7 @@ I am an Autistic Bisexual Nonbinary Nordic with a Beard (e.g.
 low support needs.  Translation: metric tons of internalized bias and privilege
 forever seeking to overshadow a marginalization trifecta with trauma on top.
 One frequently described as a lone wolf, all too often falling prey to the pack,
-my spirit animal throughout youth a chameleon.
+throughout youth I (re)considered the story of the hippo and the chameleon.
 
 * [Setting the Stage](./introduction.md)
 * [My Flavor of Autism](./diagnosis.md)
@@ -123,23 +123,24 @@ that in order to be considered an [ally](./glossary.md#ally) of
 "nothing about us without us" (nihil de nobis sine nobis) by honoring and
 promoting messages of lived experience over the tyranny of observation resulting
 in [pathologization](./glossary.md#pathologize).  In the same way that I cannot
-speak to the experiences of indiginous people, one cannot simply watch and learn
-about autistic experience; one must have it described authentically via open
-communication directly from participants using whatever medium they prefer
-(e.g. [AAC](./glossary.md#AAC 'Augmentative and Alternative Communication')).
-I say this as one completely rediscovered after 44 trips around the nearest
-star.  Sorting out all the gaslighting and masking from authentic experience
-continues to require wearying effort.
+speak to the experiences of people indiginous to the region in which I reside,
+one cannot simply watch and learn about autistic experience; one must have it
+described authentically via open communication directly from participants using
+whatever medium they prefer (e.g.
+[AAC](./glossary.md#AAC 'Augmentative and Alternative Communication')).  I say
+this as one completely rediscovered after 44 trips around the nearest star.
+Sorting out all the gaslighting and masking from authentic experience continues
+to require wearying effort.
 
 I could not have metamorphosed into my current state while buffered from daily
 demands had it not been for the access to resources granted by
 [white privilege](./glossary.md#privilege) and my capacity for
-[passing](./glossary.md#passing) as straight.  I was allowed time to break down
-safely after my own support of repeated family tragedies compounded with nearly
-constant [gaslighting](./glossary.md#gaslighting) in professional settings as
-well as at home only because I spent everything I had saved (while masking as a
-successful software developer).  I lost my house and a decade-plus relationship
-but I maintain a very grateful view of the many
+[passing](./glossary.md#passing) as straight and male.  I was allowed time to
+break down safely after my own support of repeated family tragedies compounded
+with nearly constant [gaslighting](./glossary.md#gaslighting) in professional
+settings as well as at home only because I spent everything I had saved (while
+masking as a successful software developer).  I lost my house and a decade-plus
+relationship but I maintain a very grateful view of the many
 [neurodivergent](./glossary.md#neurodivergent) advocates and allies who have
 touched my life!
 
