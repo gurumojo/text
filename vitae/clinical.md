@@ -12,6 +12,7 @@ I recently sunset decades of experience devoted to software development, and I a
 Core Competencies
 -----------------
 
+|:-----------------------:|:-----------------------:|:----------------------------:|
 |  Leadership for Equity  |  Deeply Attentive       |  Intersectional Experience   |
 |  Broaching for Healing  |  Justice Oriented       |  Holds Cognitive Dissonance  |
 |  Open to Possibilities  |  Committed to Activism  |  Constructively Disruptive   |
