@@ -8,16 +8,16 @@ Counselor | Experience Designer | Facilitator | Implementation Architect | Mento
 Professional Profile
 --------------------
 
-I recently sunset decades of experience devoted to software development, and I am forever grateful for excellent management training early in that career.  Whether working as a solutions architect, an individual contributor, or a phone support agent, the transferrable skills I bring into therapeutic relationship are supported by a depth of personal experience working on teams, including perspective gained through self-advocacy with regard to intersecting forms of marginalization and disability.  Iterative work, keen observation, justice orientation, continuous introspection, frank discussion, and deliberate action all remain central to how I show up in any setting.
+I recently sunset decades of experience devoted to software development, and I am forever grateful for excellent management training early in that career.  Whether working in person as a solutions architect, remotely as an individual contributor, or semi-privately interviewing in a sea of desks at a call center, the transferrable skills I bring into therapeutic relationship are supported by a depth of personal experience integrating the wisdom of cross-functional teams, including perspective gained through self-advocacy with regard to intersecting forms of marginalization and disability.  Iterative work, keen observation, justice orientation, continuous introspection, frank discussion, and deliberate action all remain central to how I show up in any setting.
 
 
 Core Competencies
 -----------------
 
 ```
-  Leadership for Equity     Deeply Attentive          Intersectional Experience
-  Broaching for Healing     Justice Oriented          Holds Cognitive Dissonance
-  Open to Possibilities     Committed to Activism     Constructively Disruptive
+     Leadership for Equity     Deeply Attentive          Intersectional Perspective
+     Broaching for Healing     Justice Oriented          Holds Cognitive Dissonance
+     Open to Possibilities     Committed to Activism     Constructively Disruptive
 ```
 
 
@@ -37,9 +37,9 @@ Broaching for Healing
 
  * Quickly recognizes the unspoken, often uncomfortable or shameful, shadow parts present in any given system or group
  * Practices on a continuum of conflict resolution options from calling on, to calling in, to eventually calling out problematic experience
- * Holds firm to contemplative exploration of sensitive topics, continually seeking and affirming consent
- * Asks the tough questions while suspending disbelief and judgement, listening deeply in search of mutual understanding
+ * Holds firm to confidential and contemplative exploration of sensitive topics, continually seeking and affirming consent
  * Polls for resonance with topics relevant to systemic or internalized oppression while helping to make conscious the unconsious
+ * Asks tough questions while suspending disbelief and judgement, listening deeply in search of mutual understanding
  
 
 Holds Cognitive Dissonance
@@ -55,52 +55,52 @@ Deeply Attentive
 
  * Seeks confirmation of observations and deductions, often drawing attention to overlooked features or unmet needs
  * Considers listening a whole-body engagement of the sensory field, with a focused attunement on others in relationship
- * Manages complications of monotropic focus in environments demanding partitioned application of attention
+ * Effectively manages complications of monotropic focus in environments demanding partitioned application of attention
  * Excels in depth of exploration on any given area of focus, engaging fully with contextual and environmental subtleties
  * Empties the cup and presents with a beginner's mind whenever appropriate, without hesitation or embarassment
 
 
 Committed to Activism
 
- * Acknowledges holding locations granted privilege, and freely offers their use on behalf of others
+ * Acknowledges location often granted privilege, and openly discusses complexity as an advantaged other
  * Speaks truth to power, directly and indirectly, via engagement with broaching or coaching as needed
- * Eschews pathology paradigm and biomedical models of psychological distress in favor of neurodiversity
+ * Eschews pathology and biomedical models of psychological distress in favor of neurodiversity paradigm
+ * Centers social justice and trauma informed practice over methodologies overlooking systemic influences
  * Builds coalitions and works to surface emergent issues resident in exploration of group intelligence
- * Centers social justice and trauma informed frameworks whenever and wherever they prove necessary
 
 
 Professional Experience
 -----------------------
 
 ```
-     August 2012 - Present            Software Architect                 *gurumojo*
+     August 2012 - Present            Software Architect                 gurumojo
                                       collaborate, define, implement     Boulder, CO
 
-     October 2020 - February 2021     Senior Full Stack Developer        *Softrams*
+     October 2020 - February 2021     Senior Full Stack Developer        Softrams
                                       enhance, refactor, translate       Leesburg, VA
 
-     October 2018 - August 2020       Software Developer III             *Cambia Health Solutions*
+     October 2018 - August 2020       Software Developer III             Cambia Health Solutions
                                       migrate, integrate, automate       Portland, OR
 
-     February 2016 - July 2018        Senior Software Engineer           *moovel, NA* (GlobeSherpa)
+     February 2016 - July 2018        Senior Software Engineer           moovel, NA (GlobeSherpa)
                                       rebuild, redefine, rediscover      Portland, OR
 
-     August 2012 - February 2016      Software Developer                 *CollegeNet*
+     August 2012 - February 2016      Software Developer                 CollegeNet
                                       architect, implement, repeat       Portland, OR
 
-     April 2011 - June 2012           Web Services Developer             *VTM Group*
+     April 2011 - June 2012           Web Services Developer             VTM Group
                                       implement, deploy, scale           Portland, OR
 
-     July 2010 - March 2011           Web Production Developer           *Infogroup* (Yesmail)
+     July 2010 - March 2011           Web Production Developer           Infogroup (Yesmail)
                                       script, test, troubleshoot         Portland, OR
 
-     May 2006 - May 2010              Web Application Developer          *CD Baby* (HostBaby)
+     May 2006 - May 2010              Web Application Developer          CD Baby (HostBaby)
                                       design, migrate, ship              Portland, OR
 
-     March 2003 - May 2006            Online Learning Helpdesk           *eCollege*
+     March 2003 - May 2006            Online Learning Helpdesk           eCollege
                                       document, build, support           Englewood, CO
 
-     July 1999 - March 2002           NNOC Tier 3 Tech                   *AT&T Broadband* (TCI)
+     July 1999 - March 2002           NNOC Tier 3 Tech                   AT&T Broadband (TCI)
                                       alert, escalate, manage            Englewood, CO
 ```
 
