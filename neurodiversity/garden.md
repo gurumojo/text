@@ -51,6 +51,9 @@ Smell
 Sound
 Taste
 Touch
+Interoception
+Proprioception
+Nociception
 Transpersonal
 ```
 

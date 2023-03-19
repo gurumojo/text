@@ -31,7 +31,7 @@ conclusion drawn within contexts designed solely to extract value from others'
 labor while disallowing a seat at the table as peers in decision making.  While
 accommodations guaranteed by rule of law continue to be flouted by those with
 such narrow views, calling equitable treatment preferential due to ignorance or
-bias, I will remain dedicated to breaking down walls built by privileged.
+bias, I will remain dedicated to breaking down walls built by the privileged.
 
 I realize broadcasting this perspective may be seen as risky or ill-advised by
 most in my peer network.  That is precisely the fear based position I seek to
@@ -56,8 +56,8 @@ Supporting Detail
 -----------------
 
 Any intrigued are encouraged to read about the
-[course of my life](./credential.md) to date or
-[my path forward](../neurodiversity/engagement.md).
+[course of my life](./technical.md) to date or
+[my path forward](./clinical.md).
 
 
 Custom Requests
