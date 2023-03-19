@@ -1,7 +1,3 @@
-Matthew "Líf" Larson
-====================
-
-PO Box 1782, Boulder, CO 80306-1782 | 503-944-9855 | they@gurumojo.net
 
  
 Counselor | Experience Designer | Facilitator | Implementation Architect | Mentor | Semantics Specialist
@@ -16,9 +12,9 @@ I recently sunset decades of experience devoted to software development, and I a
 Core Competencies
 -----------------
 
-Leadership for Equity  |  Deeply Attentive       |  Intersectional Experience
-Broaching for Healing  |  Justice Oriented       |  Holds Cognitive Dissonance
-Open to Possibilities  |  Committed to Activism  |  Constructively Disruptive
+|  Leadership for Equity  |  Deeply Attentive       |  Intersectional Experience   |
+|  Broaching for Healing  |  Justice Oriented       |  Holds Cognitive Dissonance  |
+|  Open to Possibilities  |  Committed to Activism  |  Constructively Disruptive   |
 
 
 Professional Skills
