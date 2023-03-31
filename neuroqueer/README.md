@@ -15,8 +15,8 @@ communities.  Nihil de nobis sine nobis.
 Active Engagement
 -----------------
 
-   * [Neuroqueer Naropa](./naropa.md)
+   * [Neuroqueer Naropa](./naropa.md)<br />
      A Student Union of Naropa group focused on building neurodivergent community
-   * [gurumojo](https://ko-fi.com/gurumojo)
+   * [gurumojo](https://ko-fi.com/gurumojo)<br />
      Architectural projects showcasing and experimenting with ditigal communication
 
