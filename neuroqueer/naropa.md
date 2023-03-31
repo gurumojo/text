@@ -32,9 +32,9 @@ Meeting Details
  * Weekly on Monday @ 6-7pm
  * Hybrid attendance model by default
    * Location: [Cultural Center (Arapahoe Campus)](https://goo.gl/maps/awWU74AiM9CK9LsGA)
-     <img alt="Location Map QR Code" src="./map.png" width="150px" height="150px" />
+     <br /><img alt="Location Map QR Code" src="./map.png" width="200px" height="200px" />
    * Zoom Link: [Neuroqueer Naropa](https://naropa.zoom.us/my/neuroqueer)
-     <img alt="Zoom Link QR Code" src="./zoom.png" width="150px" height="150px" />
+     <br /><img alt="Zoom Link QR Code" src="./zoom.png" width="200px" height="200px" />
 
 
 Foundational Agreements
