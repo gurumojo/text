@@ -10,11 +10,10 @@ Faculty Advisors
 
  * Nicole Xenos
  * Heather Bair
-
-Meetings pending:
-
  * Ārādhanā Rakhra
  * Anthony Gallucci
+
+Meetings pending:
 
  * Initial Gathering
 
