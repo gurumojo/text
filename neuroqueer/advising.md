@@ -97,4 +97,7 @@ Open Questions
  * what other days/times might be preferable?  (Thursday evenings was proposed)
  * what is queer (especially as separate from non-queer)?
 
+ * is the vanity zoom link accomodating any other needs?
+ * where should we focus written collaboration?  (varied security implications)
+ * how is the digital tooling accompanying the group best used (if at all)?
 
