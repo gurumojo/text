@@ -8,7 +8,7 @@ Counselor | Experience Designer | Facilitator | Implementation Architect | Mento
 Professional Profile
 --------------------
 
-I recently sunset decades of experience devoted to software development, and I am forever grateful for excellent management training early in that career.  Whether working in person as a solutions architect, remotely as an individual contributor, or semi-privately interviewing in a sea of desks at a call center, the transferrable skills I bring into therapeutic relationship are supported by a depth of personal experience integrating the wisdom of cross-functional teams, including perspective gained through self-advocacy with regard to intersecting forms of marginalization and disability.  Iterative work, keen observation, justice orientation, continuous introspection, frank discussion, and deliberate action all remain central to how I show up in any setting.
+Having sunset decades of experience devoted to software development, I am forever grateful for excellent management training early in that career.  Whether working in person as a solutions architect, remotely as an individual contributor, or semi-privately interviewing in a sea of desks at a call center, the transferrable skills I bring into therapeutic relationship are supported by a depth of personal experience integrating the wisdom of cross-functional teams, including perspective gained through self-advocacy with regard to intersecting forms of marginalization and disability.  Iterative work, keen observation, justice orientation, continuous introspection, frank discussion, and deliberate action all remain central to how I show up in any setting.
 
 
 Core Competencies
@@ -73,6 +73,12 @@ Professional Experience
 -----------------------
 
 ```
+     January 2024 - Present           Contractor                         Divergence Mental Health Group
+                                      group and individual counseling    Littleton, CO
+
+     February 2025                    Guest Presenter                    Naropa University
+                                      Divergent Embrace                  Boulder, CO
+
      August 2012 - Present            Software Architect                 gurumojo
                                       collaborate, define, implement     Boulder, CO
 
@@ -109,19 +115,21 @@ Formal Education
 ----------------
 
 ```
-     (May 2025)         MA in Transpersonal Wilderness Therapy     Naropa University, Boulder, CO
+     May 2025           MA in Transpersonal Wilderness Therapy            Naropa University, Boulder, CO
 
-     August 2014        Presenting Data and Information            Howard Tufte, Portland, OR
+     January 2025       Suicide Prevention for Neurodivergent Clients     NAPTI, Durango, CO
 
-     January 2014       Ethical Hacking Training                   InfoSec Institute, Portland, OR
+     August 2014        Presenting Data and Information                   Howard Tufte, Portland, OR
 
-     February 2002      7 Habits of Highly Effective People        FranklinCovey, Englewood, CO
+     January 2014       Ethical Hacking Training                          InfoSec Institute, Portland, OR
 
-     September 2001     Dale Carnegie Course                       Dale Carnegie & Associates, Englewood, CO
+     February 2002      7 Habits of Highly Effective People               FranklinCovey, Englewood, CO
 
-     May 2001           Basic UNIX Systems Administration          Westwood College, Arvada, CO
+     September 2001     Dale Carnegie Course                              Dale Carnegie & Associates, Englewood, CO
 
-     May 1999           Bachelor of Arts in Music (CIS minor)      University of Northern Colorado, Greeley, CO
+     May 2001           Basic UNIX Systems Administration                 Westwood College, Arvada, CO
+
+     May 1999           Bachelor of Arts in Music (CIS minor)             University of Northern Colorado, Greeley, CO
 ```
 
 
@@ -129,10 +137,10 @@ Volunteer Efforts
 -----------------
 
 ```
-     March 2023 - Present           Student Union Group Facilitator     Neuroqueer Naropa, Boulder, CO
+     March 2023 - May 2025          Student Union Group Facilitator      Neuroqueer Naropa, Boulder, CO
 
-     April 2018 - November 2019     Elder Care, Medical, Social         Brookdale, Scappoose, OR
+     April 2018 - November 2019     Elder Care, Medical, Social          Brookdale, Scappoose, OR
 
-     May 2006 - August 2010         Donations, Recycling, Building      FREE GEEK, Portland, OR
+     May 2006 - August 2010         Donations, Recycling, Building       FREE GEEK, Portland, OR
 ```
 
