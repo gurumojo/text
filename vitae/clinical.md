@@ -46,7 +46,7 @@ __Holds Cognitive Dissonance__
 
  * Identifies opportunity to collaborate with disparate groups in promoting goals of innovation and expansion of awareness
  * Frequently, when located beyond unrelatable binary options, exceeds known expectations while maintaining contradictory perspective
- * Consistent, long-term, mindfulness practice enables powerful presencing and tracking skills in a variety of environments, using various objects of meditation
+ * Consistent mindfulness practice enables powerful presencing and tracking skills in a variety of environments, using various objects of meditation
  * Accesses vast mental maps with a focus on elements of data as well as singular features while considering the impacts of each on larger ecosystems
  * Considers diverse experiences and needs of others when selecting or designing interventions for the most profound impact
 
@@ -65,7 +65,7 @@ __Committed to Activism__
  * Acknowledges location often granted privilege, and openly discusses complexity as an advantaged other
  * Speaks truth to power, directly and indirectly, via engagement with broaching or coaching as needed
  * Eschews pathology and biomedical models of psychological distress in favor of neurodiversity paradigm
- * Centers social justice and trauma informed practice over methodologies overlooking systemic influences
+ * Centers social justice and trauma informed practice over methodologies bypassing systemic influences
  * Builds coalitions and works to surface emergent issues resident in exploration of group intelligence
 
 
@@ -73,14 +73,20 @@ Professional Experience
 -----------------------
 
 ```
-     January 2024 - Present           Contractor                         Divergence Mental Health Group
+     September 2025 - Present         Private Practice                   Mutuality
+                                      counseling, coaching, speaking     Wheat Ridge, CO
+
+     October 2025 - Present           Clinical Contractor                Attuned Psychology
+                                      group and individual counseling    Golden, CO
+
+     August 2012 - Present            Software Architect                 gurumojo
+                                      collaborate, define, implement     Portland, OR
+
+     January 2024 - December 2025     Clinical Contractor                Divergence Mental Health Group
                                       group and individual counseling    Littleton, CO
 
      February 2025                    Guest Presenter                    Naropa University
-                                      Divergent Embrace                  Boulder, CO
-
-     August 2012 - Present            Software Architect                 gurumojo
-                                      collaborate, define, implement     Boulder, CO
+                                      redefining neurodivergent support  Boulder, CO
 
      October 2020 - February 2021     Senior Full Stack Developer        Softrams
                                       enhance, refactor, translate       Leesburg, VA
